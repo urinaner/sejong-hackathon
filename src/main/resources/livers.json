@@ -1,0 +1,6225 @@
+{
+  "result": {
+    "type": "place",
+    "metaInfo": {
+      "pageId": "3c61d764-5d8c-4696-a5eb-95d466df69a1",
+      "sessionId": null,
+      "rcode": null,
+      "searchedQuery": "계곡",
+      "queryTypes": [
+        "query_category"
+      ],
+      "regionQuery": false,
+      "correction": null,
+      "displayCorrectAnswer": false
+    },
+    "address": null,
+    "place": {
+      "page": 1,
+      "totalCount": 6318,
+      "boundary": [
+        "126.3105870",
+        "37.6007988",
+        "127.3002761",
+        "35.2652425"
+      ],
+      "feedback": [
+        "전국에서 <strong>'계곡'</strong>"
+      ],
+      "options": {
+        "sort": "0",
+        "toggleLocation": "0",
+        "rank": "1"
+      },
+      "filters": {},
+      "reSearch": null,
+      "isSiteSortAvailable": false,
+      "specializedSearch": null,
+      "hasPollingPlace": false,
+      "isAdultKeyword": false,
+      "containAdultContents": false,
+      "address": null,
+      "brandPromotion": null,
+      "list": [
+        {
+          "index": "0",
+          "rank": "1",
+          "id": "13491052",
+          "name": "성주계곡",
+          "tel": "",
+          "isCallLink": false,
+          "virtualTel": "",
+          "virtualTelDisplay": "",
+          "ppc": "0",
+          "category": [
+            "여행,명소",
+            "계곡"
+          ],
+          "categoryPath": [
+            [
+              "222117",
+              "222118",
+              "222128"
+            ],
+            [
+              "1004760",
+              "1004985"
+            ]
+          ],
+          "rcode": "1518040021",
+          "businessStatus": {
+            "requestTime": "202405172024",
+            "status": {
+              "code": 8,
+              "text": "24시간 운영",
+              "emphasis": false,
+              "description": "24시간 운영",
+              "detailInfo": ""
+            },
+            "businessHours": "202405170000~202405172400",
+            "breakTime": "",
+            "lastOrder": ""
+          },
+          "naviInfoText": null,
+          "address": "충청남도 보령시 성주면 성주리",
+          "roadAddress": "",
+          "abbrAddress": null,
+          "shortAddress": null,
+          "display": "성주<b>계곡</b>",
+          "telDisplay": "",
+          "context": [
+            "계곡",
+            "백숙",
+            "닭볶음탕",
+            "친절한",
+            "삼겹살"
+          ],
+          "reviewCount": 123,
+          "placeReviewCount": 41,
+          "ktCallMd": "10f19718b3d9972bb3c13051b5f43145",
+          "coupon": "0",
+          "thumUrl": "http://blogfiles.naver.net/MjAxNzA0MTRfMTU4/MDAxNDkyMTM1NDYzNjcy.mVNdk9ub25UXPdA9PHDAQbjuUw5oKRjM_pN07bAtk2Ag.cx9WyskJLnrKJjJU-HHphtE0NzOBn0Sd3QzMrCgIrU8g.JPEG.sannun/%BC%BA%C1%D6%BB%EA22.jpg#750x459",
+          "thumUrls": [],
+          "type": "s",
+          "isSite": "1",
+          "posExact": "1",
+          "x": "126.6611545",
+          "y": "36.3546877",
+          "itemLevel": "7",
+          "isAdultBusiness": false,
+          "streetPanorama": {
+            "id": "AfVQ3njQT6gyCZftX+otyg==",
+            "pan": "84.30",
+            "tilt": "-1.48",
+            "lng": "126.6645942",
+            "lat": "36.3577172",
+            "fov": "80"
+          },
+          "skyPanorama": null,
+          "insidePanorama": null,
+          "interiorPanorama": null,
+          "indoorPanorama": null,
+          "theme": null,
+          "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+              "poiShapeType": "1",
+              "shapeKey": null,
+              "boundary": null,
+              "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+          },
+          "homePage": "",
+          "description": "",
+          "entranceCoords": {
+            "car": [
+              {
+                "rep": true,
+                "x": 126.6590022,
+                "y": 36.3472015
+              }
+            ],
+            "walk": null
+          },
+          "isPollingPlace": false,
+          "bizhourInfo": "24시간 운영",
+          "menuInfo": null,
+          "petrolInfo": null,
+          "couponUrl": null,
+          "couponUrlMobile": null,
+          "hasCardBenefit": false,
+          "menuExist": "1",
+          "hasNaverBooking": false,
+          "naverBookingUrl": "",
+          "naverEasyOrderUrl": null,
+          "hasNaverSmartOrder": false,
+          "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+          },
+          "reservation": {
+            "benefit": ""
+          },
+          "hasBroadcastInfo": false,
+          "broadcastInfo": null,
+          "shopWindowInfo": null,
+          "hasNPay": false,
+          "carWash": "",
+          "parkingPrice": null,
+          "card": null,
+          "distance": "82909.09",
+          "marker": "nres://marker/00079-00145",
+          "markerSelected": "nres://marker/00079-00309",
+          "markerId": "222128",
+          "microReview": [],
+          "michelinGuide": null,
+          "indoor": null,
+          "markerLabel": null,
+          "subway": null,
+          "evChargerVendor": null,
+          "evChargerPublic": null,
+          "evChargerParking": null,
+          "evChargerInfo": null
+        },
+        {
+          "index": "1",
+          "rank": "2",
+          "id": "38419245",
+          "name": "태안냉천골계곡",
+          "tel": "",
+          "isCallLink": false,
+          "virtualTel": "",
+          "virtualTelDisplay": "",
+          "ppc": "0",
+          "category": [
+            "여행,명소",
+            "계곡"
+          ],
+          "categoryPath": [
+            [
+              "222117",
+              "222118",
+              "222128"
+            ],
+            [
+              "1004760",
+              "1004985"
+            ]
+          ],
+          "rcode": "1582525028",
+          "businessStatus": {
+            "requestTime": "202405172024",
+            "status": {
+              "code": 0,
+              "text": "",
+              "emphasis": false,
+              "description": "정보 없음",
+              "detailInfo": ""
+            },
+            "businessHours": "",
+            "breakTime": "",
+            "lastOrder": ""
+          },
+          "naviInfoText": null,
+          "address": "충청남도 태안군 태안읍 상옥리 1100-2",
+          "roadAddress": "충청남도 태안군 태안읍 상도로 49-46",
+          "abbrAddress": "상옥리 1100-2",
+          "shortAddress": [
+            "충남 태안군 태안읍",
+            "상도로 49-46"
+          ],
+          "display": "태안냉천골<b>계곡</b>",
+          "telDisplay": "",
+          "context": [
+            "계곡",
+            "수영장",
+            "해변"
+          ],
+          "reviewCount": 39,
+          "placeReviewCount": 1,
+          "ktCallMd": "f4ec3be736e25b4500e01ec53207250f",
+          "coupon": "0",
+          "thumUrl": "http://blogfiles.naver.net/MjAxNzA3MjBfMTQy/MDAxNTAwNTU5OTk1MTM5.cSWbUxo5BfaPk8apYEvYuRkuO8TJPSf00RrsGzV_-BEg.GKLRUruaVoif1sMm9uWA22ozXpr13nkG20dmpVRWYmYg.JPEG.dnvlf91/IMG_7945.JPG#1000x667",
+          "thumUrls": [],
+          "type": "s",
+          "isSite": "1",
+          "posExact": "1",
+          "x": "126.3105870",
+          "y": "36.7637460",
+          "itemLevel": "12",
+          "isAdultBusiness": false,
+          "streetPanorama": {
+            "id": "nGTqnjKeUFDaKy64VNv8zw==",
+            "pan": "-82.72",
+            "tilt": "-0.05",
+            "lng": "126.3110116",
+            "lat": "36.7633574",
+            "fov": "80"
+          },
+          "skyPanorama": null,
+          "insidePanorama": null,
+          "interiorPanorama": null,
+          "indoorPanorama": null,
+          "theme": null,
+          "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+              "poiShapeType": "1",
+              "shapeKey": null,
+              "boundary": null,
+              "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+          },
+          "homePage": "",
+          "description": "",
+          "entranceCoords": null,
+          "isPollingPlace": false,
+          "bizhourInfo": "",
+          "menuInfo": null,
+          "petrolInfo": null,
+          "couponUrl": null,
+          "couponUrlMobile": null,
+          "hasCardBenefit": false,
+          "menuExist": "1",
+          "hasNaverBooking": false,
+          "naverBookingUrl": "",
+          "naverEasyOrderUrl": null,
+          "hasNaverSmartOrder": false,
+          "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+          },
+          "reservation": {
+            "benefit": ""
+          },
+          "hasBroadcastInfo": false,
+          "broadcastInfo": null,
+          "shopWindowInfo": null,
+          "hasNPay": false,
+          "carWash": "",
+          "parkingPrice": null,
+          "card": null,
+          "distance": "81097.86",
+          "marker": "nres://marker/00079-00145",
+          "markerSelected": "nres://marker/00079-00309",
+          "markerId": "222128",
+          "microReview": [],
+          "michelinGuide": null,
+          "indoor": null,
+          "markerLabel": null,
+          "subway": null,
+          "evChargerVendor": null,
+          "evChargerPublic": null,
+          "evChargerParking": null,
+          "evChargerInfo": null
+        },
+        {
+          "index": "2",
+          "rank": "3",
+          "id": "11491228",
+          "name": "용현계곡",
+          "tel": "041-662-2113",
+          "isCallLink": false,
+          "virtualTel": "",
+          "virtualTelDisplay": "",
+          "ppc": "1",
+          "category": [
+            "여행,명소",
+            "계곡"
+          ],
+          "categoryPath": [
+            [
+              "222117",
+              "222118",
+              "222128"
+            ],
+            [
+              "1004760",
+              "1004985"
+            ]
+          ],
+          "rcode": "1521038022",
+          "businessStatus": {
+            "requestTime": "202405172024",
+            "status": {
+              "code": 0,
+              "text": "",
+              "emphasis": false,
+              "description": "정보 없음",
+              "detailInfo": ""
+            },
+            "businessHours": "",
+            "breakTime": "",
+            "lastOrder": ""
+          },
+          "naviInfoText": null,
+          "address": "충청남도 서산시 운산면 용현리 용현계곡",
+          "roadAddress": "",
+          "abbrAddress": null,
+          "shortAddress": null,
+          "display": "용현<b>계곡</b>",
+          "telDisplay": "041-662-2113",
+          "context": [
+            "계곡",
+            "휴양림",
+            "닭백숙",
+            "깨끗한",
+            "경치"
+          ],
+          "reviewCount": 225,
+          "placeReviewCount": 9,
+          "ktCallMd": "3413cdcb61a166edcedc9dd24168453b",
+          "coupon": "0",
+          "thumUrl": "http://blogfiles.naver.net/MjAxNzA3MTlfNjEg/MDAxNTAwNDQ4NzA1MDE0.TLEqMwEsVrnu8I4zSyNwGcEnlCHpDfunP65KhM-zIVcg.9_kXVL4qu9bDT3DK05QG3NhZx9fKWgx2mHIZvGkvoKwg.JPEG.alchemyer00/1500448420543.jpg#650x867",
+          "thumUrls": [],
+          "type": "s",
+          "isSite": "1",
+          "posExact": "1",
+          "x": "126.6057188",
+          "y": "36.7440867",
+          "itemLevel": "7",
+          "isAdultBusiness": false,
+          "streetPanorama": null,
+          "skyPanorama": null,
+          "insidePanorama": null,
+          "interiorPanorama": null,
+          "indoorPanorama": null,
+          "theme": null,
+          "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+              "poiShapeType": "1",
+              "shapeKey": null,
+              "boundary": null,
+              "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+          },
+          "homePage": "",
+          "description": "",
+          "entranceCoords": {
+            "car": [
+              {
+                "rep": true,
+                "x": 126.6075782,
+                "y": 36.7518975
+              },
+              {
+                "rep": false,
+                "x": 126.608498,
+                "y": 36.7510844
+              }
+            ],
+            "walk": [
+              {
+                "rep": true,
+                "x": 126.6075782,
+                "y": 36.7518975
+              },
+              {
+                "rep": false,
+                "x": 126.608498,
+                "y": 36.7510844
+              }
+            ]
+          },
+          "isPollingPlace": false,
+          "bizhourInfo": "",
+          "menuInfo": null,
+          "petrolInfo": null,
+          "couponUrl": null,
+          "couponUrlMobile": null,
+          "hasCardBenefit": false,
+          "menuExist": "1",
+          "hasNaverBooking": false,
+          "naverBookingUrl": "",
+          "naverEasyOrderUrl": null,
+          "hasNaverSmartOrder": false,
+          "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+          },
+          "reservation": {
+            "benefit": ""
+          },
+          "hasBroadcastInfo": false,
+          "broadcastInfo": null,
+          "shopWindowInfo": null,
+          "hasNPay": false,
+          "carWash": "",
+          "parkingPrice": null,
+          "card": null,
+          "distance": "97942.44",
+          "marker": "nres://marker/00079-00145",
+          "markerSelected": "nres://marker/00079-00309",
+          "markerId": "222128",
+          "microReview": [],
+          "michelinGuide": null,
+          "indoor": null,
+          "markerLabel": null,
+          "subway": null,
+          "evChargerVendor": null,
+          "evChargerPublic": null,
+          "evChargerParking": null,
+          "evChargerInfo": null
+        },
+        {
+          "index": "3",
+          "rank": "4",
+          "id": "11491110",
+          "name": "강당골계곡",
+          "tel": "",
+          "isCallLink": false,
+          "virtualTel": "",
+          "virtualTelDisplay": "",
+          "ppc": "0",
+          "category": [
+            "여행,명소",
+            "계곡"
+          ],
+          "categoryPath": [
+            [
+              "222117",
+              "222118",
+              "222128"
+            ],
+            [
+              "1004760",
+              "1004985"
+            ]
+          ],
+          "rcode": "1520031024",
+          "businessStatus": {
+            "requestTime": "202405172024",
+            "status": {
+              "code": 0,
+              "text": "",
+              "emphasis": false,
+              "description": "정보 없음",
+              "detailInfo": ""
+            },
+            "businessHours": "",
+            "breakTime": "",
+            "lastOrder": ""
+          },
+          "naviInfoText": null,
+          "address": "충청남도 아산시 송악면 강당리 강당골",
+          "roadAddress": "",
+          "abbrAddress": null,
+          "shortAddress": null,
+          "display": "강당골<b>계곡</b>",
+          "telDisplay": "",
+          "context": [
+            "계곡",
+            "닭백숙",
+            "캠핑",
+            "깨끗한",
+            "등산"
+          ],
+          "reviewCount": 469,
+          "placeReviewCount": 21,
+          "ktCallMd": "2356e248f418c3029b18b8bdb58b007e",
+          "coupon": "0",
+          "thumUrl": "http://blogfiles.naver.net/MjAxNzA4MDZfMzcg/MDAxNTAyMDE2ODcyNDM3.Lc_LsMSDTI1YvpQYpQUYkS2ZevPKv3DqDAKudIZVN7cg.D9951sote_7cxSluuLp0s7ea0Im-9teiGx6kpCkdm6Ig.JPEG.csk319/030.jpg#650x488",
+          "thumUrls": [],
+          "type": "s",
+          "isSite": "1",
+          "posExact": "1",
+          "x": "127.0158885",
+          "y": "36.7102328",
+          "itemLevel": "7",
+          "isAdultBusiness": false,
+          "streetPanorama": {
+            "id": "Or2dPma8iwTCZgY0/bJQmA==",
+            "pan": "6.87",
+            "tilt": "2.52",
+            "lng": "127.0158263",
+            "lat": "36.7101456",
+            "fov": "80"
+          },
+          "skyPanorama": null,
+          "insidePanorama": null,
+          "interiorPanorama": null,
+          "indoorPanorama": null,
+          "theme": null,
+          "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+              "poiShapeType": "1",
+              "shapeKey": null,
+              "boundary": null,
+              "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+          },
+          "homePage": "",
+          "description": "",
+          "entranceCoords": null,
+          "isPollingPlace": false,
+          "bizhourInfo": "",
+          "menuInfo": null,
+          "petrolInfo": null,
+          "couponUrl": null,
+          "couponUrlMobile": null,
+          "hasCardBenefit": false,
+          "menuExist": "1",
+          "hasNaverBooking": false,
+          "naverBookingUrl": "",
+          "naverEasyOrderUrl": null,
+          "hasNaverSmartOrder": false,
+          "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+          },
+          "reservation": {
+            "benefit": ""
+          },
+          "hasBroadcastInfo": false,
+          "broadcastInfo": null,
+          "shopWindowInfo": null,
+          "hasNPay": false,
+          "carWash": "",
+          "parkingPrice": null,
+          "card": null,
+          "distance": "126633.25",
+          "marker": "nres://marker/00079-00145",
+          "markerSelected": "nres://marker/00079-00309",
+          "markerId": "222128",
+          "microReview": [],
+          "michelinGuide": null,
+          "indoor": null,
+          "markerLabel": null,
+          "subway": null,
+          "evChargerVendor": null,
+          "evChargerPublic": null,
+          "evChargerParking": null,
+          "evChargerInfo": null
+        },
+        {
+          "index": "4",
+          "rank": "5",
+          "id": "13495928",
+          "name": "삼막사계곡",
+          "tel": "",
+          "isCallLink": false,
+          "virtualTel": "",
+          "virtualTelDisplay": "",
+          "ppc": "0",
+          "category": [
+            "여행,명소",
+            "계곡"
+          ],
+          "categoryPath": [
+            [
+              "222117",
+              "222118",
+              "222128"
+            ],
+            [
+              "1004760",
+              "1004985"
+            ]
+          ],
+          "rcode": "02171102",
+          "businessStatus": {
+            "requestTime": "202405172024",
+            "status": {
+              "code": 0,
+              "text": "",
+              "emphasis": false,
+              "description": "정보 없음",
+              "detailInfo": ""
+            },
+            "businessHours": "",
+            "breakTime": "",
+            "lastOrder": ""
+          },
+          "naviInfoText": null,
+          "address": "경기도 안양시 만안구 석수동",
+          "roadAddress": "",
+          "abbrAddress": null,
+          "shortAddress": null,
+          "display": "삼막사<b>계곡</b>",
+          "telDisplay": "",
+          "context": [
+            "계곡",
+            "치킨",
+            "짜장면",
+            "깨끗한",
+            "등산"
+          ],
+          "reviewCount": 709,
+          "placeReviewCount": 215,
+          "ktCallMd": "0d63717ed37abe996b102fcb8d68a871",
+          "coupon": "0",
+          "thumUrl": "http://blogfiles.naver.net/MjAxNzA3MThfMTkx/MDAxNTAwMzIzMTY1MjYw.yk-dhKA2FclKT7BOt81MXck255KiwOUlHm7gZxH86dgg.ijWO7oFq5LolYHOD4i1tXoAO9y9zbQQRLaWD9Fc7wKAg.JPEG.tvanyanggokr/2.jpg#740x493",
+          "thumUrls": [],
+          "type": "s",
+          "isSite": "1",
+          "posExact": "1",
+          "x": "126.9228661",
+          "y": "37.4345717",
+          "itemLevel": "12",
+          "isAdultBusiness": false,
+          "streetPanorama": {
+            "id": "amJEF7OjyQPT0pXmbaNJzQ==",
+            "pan": "86.15",
+            "tilt": "2.68",
+            "lng": "126.9221512",
+            "lat": "37.4346142",
+            "fov": "80"
+          },
+          "skyPanorama": {
+            "id": "i7brXaQdxkcbK62GlE7SVg==",
+            "pan": "90.17",
+            "tilt": "-30.00",
+            "lng": "126.9166641",
+            "lat": "37.4345856",
+            "fov": "124"
+          },
+          "insidePanorama": null,
+          "interiorPanorama": null,
+          "indoorPanorama": null,
+          "theme": null,
+          "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+              "poiShapeType": "1",
+              "shapeKey": null,
+              "boundary": null,
+              "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+          },
+          "homePage": "",
+          "description": "",
+          "entranceCoords": {
+            "car": [
+              {
+                "rep": true,
+                "x": 126.9239995,
+                "y": 37.4367451
+              }
+            ],
+            "walk": [
+              {
+                "rep": true,
+                "x": 126.9239995,
+                "y": 37.4367451
+              }
+            ]
+          },
+          "isPollingPlace": false,
+          "bizhourInfo": "",
+          "menuInfo": null,
+          "petrolInfo": null,
+          "couponUrl": null,
+          "couponUrlMobile": null,
+          "hasCardBenefit": false,
+          "menuExist": "1",
+          "hasNaverBooking": false,
+          "naverBookingUrl": "",
+          "naverEasyOrderUrl": null,
+          "hasNaverSmartOrder": false,
+          "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+          },
+          "reservation": {
+            "benefit": ""
+          },
+          "hasBroadcastInfo": false,
+          "broadcastInfo": null,
+          "shopWindowInfo": null,
+          "hasNPay": false,
+          "carWash": "",
+          "parkingPrice": null,
+          "card": null,
+          "distance": "173424.67",
+          "marker": "nres://marker/00079-00145",
+          "markerSelected": "nres://marker/00079-00309",
+          "markerId": "222128",
+          "microReview": [],
+          "michelinGuide": null,
+          "indoor": null,
+          "markerLabel": null,
+          "subway": null,
+          "evChargerVendor": null,
+          "evChargerPublic": null,
+          "evChargerParking": null,
+          "evChargerInfo": null
+        },
+        {
+          "index": "5",
+          "rank": "6",
+          "id": "13491597",
+          "name": "명대골계곡",
+          "tel": "",
+          "isCallLink": false,
+          "virtualTel": "",
+          "virtualTelDisplay": "",
+          "ppc": "0",
+          "category": [
+            "여행,명소",
+            "계곡"
+          ],
+          "categoryPath": [
+            [
+              "222117",
+              "222118",
+              "222128"
+            ],
+            [
+              "1004760",
+              "1004985"
+            ]
+          ],
+          "rcode": "1518035029",
+          "businessStatus": {
+            "requestTime": "202405172024",
+            "status": {
+              "code": 0,
+              "text": "",
+              "emphasis": false,
+              "description": "정보 없음",
+              "detailInfo": ""
+            },
+            "businessHours": "",
+            "breakTime": "",
+            "lastOrder": ""
+          },
+          "naviInfoText": null,
+          "address": "충청남도 보령시 청라면 장현리",
+          "roadAddress": "",
+          "abbrAddress": null,
+          "shortAddress": null,
+          "display": "명대골<b>계곡</b>",
+          "telDisplay": "",
+          "context": [
+            "계곡",
+            "산행",
+            "억새"
+          ],
+          "reviewCount": 14,
+          "placeReviewCount": 0,
+          "ktCallMd": "3e8642253ca77bb13530668542c63256",
+          "coupon": "0",
+          "thumUrl": "http://blogfiles.naver.net/MjAxODA5MTBfNTUg/MDAxNTM2NTU2NzM0NTE5.c4WpGZDArGRepGqtMAAncWHdNGGYhbYk_8HrIqmwa7Ag.rmorabRYI5XnfcTtvtnmHgSRAdy0x5b-iu9d2np9c1Qg.JPEG.boryeongsi/MG0A9283.JPG#1800x1200",
+          "thumUrls": [],
+          "type": "s",
+          "isSite": "1",
+          "posExact": "1",
+          "x": "126.6699905",
+          "y": "36.4489504",
+          "itemLevel": "7",
+          "isAdultBusiness": false,
+          "streetPanorama": null,
+          "skyPanorama": null,
+          "insidePanorama": null,
+          "interiorPanorama": null,
+          "indoorPanorama": null,
+          "theme": null,
+          "poiInfo": {
+            "relation": {
+              "poiShapeType": "1",
+              "shapeKey": {
+                "typeName": "RELA",
+                "wsid": "1.0",
+                "shapeID": "13491597"
+              },
+              "boundary": {
+                "minX": "117.9926027",
+                "minY": "19.6944771",
+                "maxX": "117.9926027",
+                "maxY": "19.6944771"
+              },
+              "detail": null
+            },
+            "hasRelation": true,
+            "road": {
+              "poiShapeType": "1",
+              "shapeKey": null,
+              "boundary": null,
+              "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+          },
+          "homePage": "",
+          "description": "",
+          "entranceCoords": {
+            "car": [
+              {
+                "rep": true,
+                "x": 126.6757738,
+                "y": 36.4478327
+              }
+            ],
+            "walk": [
+              {
+                "rep": true,
+                "x": 126.6757738,
+                "y": 36.4478327
+              }
+            ]
+          },
+          "isPollingPlace": false,
+          "bizhourInfo": "",
+          "menuInfo": null,
+          "petrolInfo": null,
+          "couponUrl": null,
+          "couponUrlMobile": null,
+          "hasCardBenefit": false,
+          "menuExist": "1",
+          "hasNaverBooking": false,
+          "naverBookingUrl": "",
+          "naverEasyOrderUrl": null,
+          "hasNaverSmartOrder": false,
+          "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+          },
+          "reservation": {
+            "benefit": ""
+          },
+          "hasBroadcastInfo": false,
+          "broadcastInfo": null,
+          "shopWindowInfo": null,
+          "hasNPay": false,
+          "carWash": "",
+          "parkingPrice": null,
+          "card": null,
+          "distance": "86620.98",
+          "marker": "nres://marker/00079-00145",
+          "markerSelected": "nres://marker/00079-00309",
+          "markerId": "222128",
+          "microReview": [],
+          "michelinGuide": null,
+          "indoor": null,
+          "markerLabel": null,
+          "subway": null,
+          "evChargerVendor": null,
+          "evChargerPublic": null,
+          "evChargerParking": null,
+          "evChargerInfo": null
+        },
+        {
+          "index": "6",
+          "rank": "7",
+          "id": "13491812",
+          "name": "화장골계곡",
+          "tel": "041-930-3529",
+          "isCallLink": false,
+          "virtualTel": "",
+          "virtualTelDisplay": "",
+          "ppc": "1",
+          "category": [
+            "여행,명소",
+            "계곡"
+          ],
+          "categoryPath": [
+            [
+              "222117",
+              "222118",
+              "222128"
+            ],
+            [
+              "1004760",
+              "1004985"
+            ]
+          ],
+          "rcode": "1518040021",
+          "businessStatus": {
+            "requestTime": "202405172024",
+            "status": {
+              "code": 0,
+              "text": "",
+              "emphasis": false,
+              "description": "정보 없음",
+              "detailInfo": ""
+            },
+            "businessHours": "",
+            "breakTime": "",
+            "lastOrder": ""
+          },
+          "naviInfoText": null,
+          "address": "충청남도 보령시 성주면 성주리",
+          "roadAddress": "",
+          "abbrAddress": null,
+          "shortAddress": null,
+          "display": "화장골<b>계곡</b>",
+          "telDisplay": "041-930-3529",
+          "context": [
+            "계곡",
+            "단풍"
+          ],
+          "reviewCount": 7,
+          "placeReviewCount": 0,
+          "ktCallMd": "42ac0558eb6c25ae56a2d115dc3e1ebb",
+          "coupon": "0",
+          "thumUrl": "http://blogfiles.naver.net/20151016_88/boryeongsi_14449610036604t1dw_JPEG/J__2011.JPG#740x493",
+          "thumUrls": [],
+          "type": "s",
+          "isSite": "1",
+          "posExact": "1",
+          "x": "126.6647500",
+          "y": "36.3340904",
+          "itemLevel": "7",
+          "isAdultBusiness": false,
+          "streetPanorama": null,
+          "skyPanorama": null,
+          "insidePanorama": null,
+          "interiorPanorama": null,
+          "indoorPanorama": null,
+          "theme": null,
+          "poiInfo": {
+            "relation": {
+              "poiShapeType": "1",
+              "shapeKey": {
+                "typeName": "RELA",
+                "wsid": "1.0",
+                "shapeID": "13491812"
+              },
+              "boundary": {
+                "minX": "117.9926027",
+                "minY": "19.6944771",
+                "maxX": "117.9926027",
+                "maxY": "19.6944771"
+              },
+              "detail": [
+                {
+                  "type": "1",
+                  "sid": "426478105",
+                  "fullName": "성주산자연휴양림주차장1입구",
+                  "name": "주차장1입구",
+                  "category": "입구(사람+차량)",
+                  "xPos": "126.6635337",
+                  "yPos": "36.3329059"
+                },
+                {
+                  "type": "3",
+                  "sid": "667702458",
+                  "fullName": "성주산자연휴양림주차장1출구",
+                  "name": "주차장1출구",
+                  "category": "출구(차량)",
+                  "xPos": "126.6637898",
+                  "yPos": "36.3330504"
+                }
+              ]
+            },
+            "hasRelation": true,
+            "road": {
+              "poiShapeType": "1",
+              "shapeKey": null,
+              "boundary": null,
+              "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+          },
+          "homePage": "",
+          "description": "",
+          "entranceCoords": {
+            "car": [
+              {
+                "rep": true,
+                "x": 126.6560711,
+                "y": 36.3339432
+              },
+              {
+                "rep": false,
+                "x": 126.6635337,
+                "y": 36.3329059
+              }
+            ],
+            "walk": [
+              {
+                "rep": true,
+                "x": 126.6560711,
+                "y": 36.3339432
+              },
+              {
+                "rep": false,
+                "x": 126.6635337,
+                "y": 36.3329059
+              }
+            ]
+          },
+          "isPollingPlace": false,
+          "bizhourInfo": "",
+          "menuInfo": null,
+          "petrolInfo": null,
+          "couponUrl": null,
+          "couponUrlMobile": null,
+          "hasCardBenefit": false,
+          "menuExist": "1",
+          "hasNaverBooking": false,
+          "naverBookingUrl": "",
+          "naverEasyOrderUrl": null,
+          "hasNaverSmartOrder": false,
+          "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+          },
+          "reservation": {
+            "benefit": ""
+          },
+          "hasBroadcastInfo": false,
+          "broadcastInfo": null,
+          "shopWindowInfo": null,
+          "hasNPay": false,
+          "carWash": "",
+          "parkingPrice": null,
+          "card": null,
+          "distance": "82739.95",
+          "marker": "nres://marker/00079-00145",
+          "markerSelected": "nres://marker/00079-00309",
+          "markerId": "222128",
+          "microReview": [],
+          "michelinGuide": null,
+          "indoor": null,
+          "markerLabel": null,
+          "subway": null,
+          "evChargerVendor": null,
+          "evChargerPublic": null,
+          "evChargerParking": null,
+          "evChargerInfo": null
+        },
+        {
+          "index": "7",
+          "rank": "8",
+          "id": "11491197",
+          "name": "수락계곡",
+          "tel": "041-732-3568",
+          "isCallLink": false,
+          "virtualTel": "",
+          "virtualTelDisplay": "",
+          "ppc": "1",
+          "category": [
+            "여행,명소",
+            "계곡"
+          ],
+          "categoryPath": [
+            [
+              "222117",
+              "222118",
+              "222128"
+            ],
+            [
+              "1004760",
+              "1004985"
+            ]
+          ],
+          "rcode": "1523038027",
+          "businessStatus": {
+            "requestTime": "202405172024",
+            "status": {
+              "code": 0,
+              "text": "",
+              "emphasis": false,
+              "description": "정보 없음",
+              "detailInfo": ""
+            },
+            "businessHours": "",
+            "breakTime": "",
+            "lastOrder": ""
+          },
+          "naviInfoText": null,
+          "address": "충청남도 논산시 벌곡면 수락리 수락계곡",
+          "roadAddress": "",
+          "abbrAddress": null,
+          "shortAddress": null,
+          "display": "수락<b>계곡</b>",
+          "telDisplay": "041-732-3568",
+          "context": [
+            "계곡",
+            "등산",
+            "눈썰매",
+            "깨끗한",
+            "눈썰매장"
+          ],
+          "reviewCount": 400,
+          "placeReviewCount": 48,
+          "ktCallMd": "b00a307910180a4ec07caa6d4c087ddd",
+          "coupon": "0",
+          "thumUrl": "https://ldb-phinf.pstatic.net/20180823_45/1535011322284BdLy7_JPEG/-OSw_AKcPkKF6Oja4abWJFpG.jpg",
+          "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20180823_45/1535011322284BdLy7_JPEG/-OSw_AKcPkKF6Oja4abWJFpG.jpg",
+            "https://ldb-phinf.pstatic.net/20180823_71/1535011332117WHYYz_JPEG/rtxDp1tiXi4xhEC31IvWHBBn.jpg",
+            "https://ldb-phinf.pstatic.net/20180823_247/1535011342879x2lUB_JPEG/oWGI0RReQ3Tx8ymt86si7u1M.jpg"
+          ],
+          "type": "s",
+          "isSite": "1",
+          "posExact": "1",
+          "x": "127.3002761",
+          "y": "36.1441985",
+          "itemLevel": "7",
+          "isAdultBusiness": false,
+          "streetPanorama": {
+            "id": "riL6Q1uhmWsvRKRZ4cBCKA==",
+            "pan": "39.76",
+            "tilt": "-0.83",
+            "lng": "127.3045382",
+            "lat": "36.1450682",
+            "fov": "80"
+          },
+          "skyPanorama": null,
+          "insidePanorama": null,
+          "interiorPanorama": null,
+          "indoorPanorama": null,
+          "theme": null,
+          "poiInfo": {
+            "relation": {
+              "poiShapeType": "1",
+              "shapeKey": {
+                "typeName": "RELA",
+                "wsid": "1.0",
+                "shapeID": "11491197"
+              },
+              "boundary": {
+                "minX": "117.9926027",
+                "minY": "19.6944771",
+                "maxX": "117.9926027",
+                "maxY": "19.6944771"
+              },
+              "detail": null
+            },
+            "hasRelation": true,
+            "road": {
+              "poiShapeType": "1",
+              "shapeKey": null,
+              "boundary": null,
+              "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+          },
+          "homePage": "",
+          "description": "",
+          "entranceCoords": {
+            "car": [
+              {
+                "rep": true,
+                "x": 127.304889,
+                "y": 36.143917
+              }
+            ],
+            "walk": [
+              {
+                "rep": true,
+                "x": 127.304889,
+                "y": 36.143917
+              }
+            ]
+          },
+          "isPollingPlace": false,
+          "bizhourInfo": "",
+          "menuInfo": null,
+          "petrolInfo": null,
+          "couponUrl": null,
+          "couponUrlMobile": null,
+          "hasCardBenefit": false,
+          "menuExist": "1",
+          "hasNaverBooking": false,
+          "naverBookingUrl": "",
+          "naverEasyOrderUrl": null,
+          "hasNaverSmartOrder": false,
+          "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+          },
+          "reservation": {
+            "benefit": ""
+          },
+          "hasBroadcastInfo": false,
+          "broadcastInfo": null,
+          "shopWindowInfo": null,
+          "hasNPay": false,
+          "carWash": "",
+          "parkingPrice": null,
+          "card": null,
+          "distance": "138302.41",
+          "marker": "nres://marker/00079-00145",
+          "markerSelected": "nres://marker/00079-00309",
+          "markerId": "222128",
+          "microReview": [],
+          "michelinGuide": null,
+          "indoor": null,
+          "markerLabel": null,
+          "subway": null,
+          "evChargerVendor": null,
+          "evChargerPublic": null,
+          "evChargerParking": null,
+          "evChargerInfo": null
+        },
+        {
+          "index": "8",
+          "rank": "9",
+          "id": "17594010",
+          "name": "산수리계곡",
+          "tel": "",
+          "isCallLink": false,
+          "virtualTel": "",
+          "virtualTelDisplay": "",
+          "ppc": "0",
+          "category": [
+            "여행,명소",
+            "계곡"
+          ],
+          "categoryPath": [
+            [
+              "222117",
+              "222118",
+              "222128"
+            ],
+            [
+              "1004760",
+              "1004985"
+            ]
+          ],
+          "rcode": "1521039024",
+          "businessStatus": {
+            "requestTime": "202405172024",
+            "status": {
+              "code": 0,
+              "text": "",
+              "emphasis": false,
+              "description": "정보 없음",
+              "detailInfo": ""
+            },
+            "businessHours": "",
+            "breakTime": "",
+            "lastOrder": ""
+          },
+          "naviInfoText": null,
+          "address": "충청남도 서산시 해미면 산수리",
+          "roadAddress": "",
+          "abbrAddress": null,
+          "shortAddress": null,
+          "display": "산수리<b>계곡</b>",
+          "telDisplay": "",
+          "context": [
+            "계곡",
+            "삼겹살"
+          ],
+          "reviewCount": 26,
+          "placeReviewCount": 3,
+          "ktCallMd": "49b9cbb6fc1f2fb217172f5ee4b535c9",
+          "coupon": "0",
+          "thumUrl": "http://blogfiles.naver.net/20130811_123/ysw0585_1376232766588GWsOu_JPEG/1376232765917_1376231115169.jpg#480x360",
+          "thumUrls": [],
+          "type": "s",
+          "isSite": "1",
+          "posExact": "1",
+          "x": "126.5777670",
+          "y": "36.7064220",
+          "itemLevel": "7",
+          "isAdultBusiness": false,
+          "streetPanorama": {
+            "id": "Q6h6XfJ3p9QfmUnEzQylzg==",
+            "pan": "14.84",
+            "tilt": "10.00",
+            "lng": "126.5776137",
+            "lat": "36.7058433",
+            "fov": "120"
+          },
+          "skyPanorama": null,
+          "insidePanorama": null,
+          "interiorPanorama": null,
+          "indoorPanorama": null,
+          "theme": null,
+          "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+              "poiShapeType": "1",
+              "shapeKey": null,
+              "boundary": null,
+              "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+          },
+          "homePage": "",
+          "description": "",
+          "entranceCoords": {
+            "car": [
+              {
+                "rep": true,
+                "x": 126.5848436,
+                "y": 36.7070826
+              }
+            ],
+            "walk": null
+          },
+          "isPollingPlace": false,
+          "bizhourInfo": "",
+          "menuInfo": null,
+          "petrolInfo": null,
+          "couponUrl": null,
+          "couponUrlMobile": null,
+          "hasCardBenefit": false,
+          "menuExist": "1",
+          "hasNaverBooking": false,
+          "naverBookingUrl": "",
+          "naverEasyOrderUrl": null,
+          "hasNaverSmartOrder": false,
+          "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+          },
+          "reservation": {
+            "benefit": ""
+          },
+          "hasBroadcastInfo": false,
+          "broadcastInfo": null,
+          "shopWindowInfo": null,
+          "hasNPay": false,
+          "carWash": "",
+          "parkingPrice": null,
+          "card": null,
+          "distance": "93372.09",
+          "marker": "nres://marker/00079-00145",
+          "markerSelected": "nres://marker/00079-00309",
+          "markerId": "222128",
+          "microReview": [],
+          "michelinGuide": null,
+          "indoor": null,
+          "markerLabel": null,
+          "subway": null,
+          "evChargerVendor": null,
+          "evChargerPublic": null,
+          "evChargerParking": null,
+          "evChargerInfo": null
+        },
+        {
+          "index": "9",
+          "rank": "10",
+          "id": "13491018",
+          "name": "심연동계곡",
+          "tel": "041-932-2023",
+          "isCallLink": false,
+          "virtualTel": "",
+          "virtualTelDisplay": "",
+          "ppc": "1",
+          "category": [
+            "여행,명소",
+            "계곡"
+          ],
+          "categoryPath": [
+            [
+              "222117",
+              "222118",
+              "222128"
+            ],
+            [
+              "1004760",
+              "1004985"
+            ]
+          ],
+          "rcode": "1518040021",
+          "businessStatus": {
+            "requestTime": "202405172024",
+            "status": {
+              "code": 0,
+              "text": "",
+              "emphasis": false,
+              "description": "정보 없음",
+              "detailInfo": ""
+            },
+            "businessHours": "",
+            "breakTime": "",
+            "lastOrder": ""
+          },
+          "naviInfoText": null,
+          "address": "충청남도 보령시 성주면 성주리",
+          "roadAddress": "",
+          "abbrAddress": null,
+          "shortAddress": null,
+          "display": "심연동<b>계곡</b>",
+          "telDisplay": "041-932-2023",
+          "context": [],
+          "reviewCount": 24,
+          "placeReviewCount": 1,
+          "ktCallMd": "5fa3cbfbe1f609259f6980cfc860ae73",
+          "coupon": "0",
+          "thumUrl": "http://blogfiles.naver.net/MjAxNzA1MThfMTgg/MDAxNDk1MDg4MDE3Mjky.ABZBYB8iTGsv4i_GYRI9inwv89GhUAog0jbpS7XcstUg.qDe9eVbvMnqWBwyX-q6bqJmss065wfCSI6NkGMmr6lYg.JPEG.boryeongsi/%BD%C9%BF%AC%B5%BF_%B0%E8%B0%EE.jpg#5616x3744",
+          "thumUrls": [],
+          "type": "s",
+          "isSite": "1",
+          "posExact": "1",
+          "x": "126.6908749",
+          "y": "36.3473903",
+          "itemLevel": "7",
+          "isAdultBusiness": false,
+          "streetPanorama": {
+            "id": "dUA1auuwHJ+5brU29OHx9g==",
+            "pan": "74.03",
+            "tilt": "10.00",
+            "lng": "126.6899497",
+            "lat": "36.3471250",
+            "fov": "120"
+          },
+          "skyPanorama": null,
+          "insidePanorama": null,
+          "interiorPanorama": null,
+          "indoorPanorama": null,
+          "theme": null,
+          "poiInfo": {
+            "relation": {
+              "poiShapeType": "1",
+              "shapeKey": {
+                "typeName": "RELA",
+                "wsid": "1.0",
+                "shapeID": "13491018"
+              },
+              "boundary": {
+                "minX": "117.9926027",
+                "minY": "19.6944771",
+                "maxX": "117.9926027",
+                "maxY": "19.6944771"
+              },
+              "detail": null
+            },
+            "hasRelation": true,
+            "road": {
+              "poiShapeType": "1",
+              "shapeKey": null,
+              "boundary": null,
+              "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+          },
+          "homePage": "",
+          "description": "",
+          "entranceCoords": {
+            "car": [
+              {
+                "rep": true,
+                "x": 126.6872952,
+                "y": 36.3498197
+              }
+            ],
+            "walk": [
+              {
+                "rep": true,
+                "x": 126.6872952,
+                "y": 36.3498197
+              }
+            ]
+          },
+          "isPollingPlace": false,
+          "bizhourInfo": "",
+          "menuInfo": null,
+          "petrolInfo": null,
+          "couponUrl": null,
+          "couponUrlMobile": null,
+          "hasCardBenefit": false,
+          "menuExist": "1",
+          "hasNaverBooking": false,
+          "naverBookingUrl": "",
+          "naverEasyOrderUrl": null,
+          "hasNaverSmartOrder": false,
+          "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+          },
+          "reservation": {
+            "benefit": ""
+          },
+          "hasBroadcastInfo": false,
+          "broadcastInfo": null,
+          "shopWindowInfo": null,
+          "hasNPay": false,
+          "carWash": "",
+          "parkingPrice": null,
+          "card": null,
+          "distance": "85334.30",
+          "marker": "nres://marker/00079-00145",
+          "markerSelected": "nres://marker/00079-00309",
+          "markerId": "222128",
+          "microReview": [],
+          "michelinGuide": null,
+          "indoor": null,
+          "markerLabel": null,
+          "subway": null,
+          "evChargerVendor": null,
+          "evChargerPublic": null,
+          "evChargerParking": null,
+          "evChargerInfo": null
+        },
+        {
+          "index": "10",
+          "rank": "11",
+          "id": "17753201",
+          "name": "까치내계곡",
+          "tel": "",
+          "isCallLink": false,
+          "virtualTel": "",
+          "virtualTelDisplay": "",
+          "ppc": "0",
+          "category": [
+            "여행,명소",
+            "계곡"
+          ],
+          "categoryPath": [
+            [
+              "222117",
+              "222118",
+              "222128"
+            ],
+            [
+              "1004760",
+              "1004985"
+            ]
+          ],
+          "rcode": "1579032027",
+          "businessStatus": {
+            "requestTime": "202405172024",
+            "status": {
+              "code": 0,
+              "text": "",
+              "emphasis": false,
+              "description": "정보 없음",
+              "detailInfo": ""
+            },
+            "businessHours": "",
+            "breakTime": "",
+            "lastOrder": ""
+          },
+          "naviInfoText": null,
+          "address": "충청남도 청양군 대치면 작천리",
+          "roadAddress": "",
+          "abbrAddress": null,
+          "shortAddress": null,
+          "display": "까치내<b>계곡</b>",
+          "telDisplay": "",
+          "context": [
+            "계곡",
+            "캠핑",
+            "유원지",
+            "깨끗한",
+            "휴식"
+          ],
+          "reviewCount": 40,
+          "placeReviewCount": 1,
+          "ktCallMd": "0dc21fbe8475a2e3a05799ec1e671863",
+          "coupon": "0",
+          "thumUrl": "http://blogfiles.naver.net/MjAyMjA2MDZfMTI1/MDAxNjU0NTIwNTc3Mjgw.QeOnaS7h31e4uMCIHisYnu1KeLfWVMdbdNmvGd5qWB8g.9ehDFS2TFIu6diRDYk7VyZNMuyhd0udncauUx1TcE8kg.JPEG.1000bh/DSC_0981.JPG#6016x4016",
+          "thumUrls": [],
+          "type": "s",
+          "isSite": "1",
+          "posExact": "1",
+          "x": "126.8610266",
+          "y": "36.3929089",
+          "itemLevel": "7",
+          "isAdultBusiness": false,
+          "streetPanorama": {
+            "id": "6UC1QiF3mybh/j1gBr6GyQ==",
+            "pan": "83.25",
+            "tilt": "10.00",
+            "lng": "126.8604874",
+            "lat": "36.3928447",
+            "fov": "120"
+          },
+          "skyPanorama": null,
+          "insidePanorama": null,
+          "interiorPanorama": null,
+          "indoorPanorama": null,
+          "theme": null,
+          "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+              "poiShapeType": "1",
+              "shapeKey": null,
+              "boundary": null,
+              "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+          },
+          "homePage": "",
+          "description": "",
+          "entranceCoords": {
+            "car": [
+              {
+                "rep": true,
+                "x": 126.8601938,
+                "y": 36.3933827
+              }
+            ],
+            "walk": [
+              {
+                "rep": true,
+                "x": 126.8601938,
+                "y": 36.3933827
+              }
+            ]
+          },
+          "isPollingPlace": false,
+          "bizhourInfo": "",
+          "menuInfo": null,
+          "petrolInfo": null,
+          "couponUrl": null,
+          "couponUrlMobile": null,
+          "hasCardBenefit": false,
+          "menuExist": "1",
+          "hasNaverBooking": false,
+          "naverBookingUrl": "",
+          "naverEasyOrderUrl": null,
+          "hasNaverSmartOrder": false,
+          "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+          },
+          "reservation": {
+            "benefit": ""
+          },
+          "hasBroadcastInfo": false,
+          "broadcastInfo": null,
+          "shopWindowInfo": null,
+          "hasNPay": false,
+          "carWash": "",
+          "parkingPrice": null,
+          "card": null,
+          "distance": "101316.38",
+          "marker": "nres://marker/00079-00145",
+          "markerSelected": "nres://marker/00079-00309",
+          "markerId": "222128",
+          "microReview": [],
+          "michelinGuide": null,
+          "indoor": null,
+          "markerLabel": null,
+          "subway": null,
+          "evChargerVendor": null,
+          "evChargerPublic": null,
+          "evChargerParking": null,
+          "evChargerInfo": null
+        },
+        {
+          "index": "11",
+          "rank": "12",
+          "id": "30949178",
+          "name": "수성동계곡",
+          "tel": "02-2148-2844",
+          "isCallLink": false,
+          "virtualTel": "",
+          "virtualTelDisplay": "",
+          "ppc": "1",
+          "category": [
+            "여행,명소",
+            "계곡"
+          ],
+          "categoryPath": [
+            [
+              "222117",
+              "222118",
+              "222128"
+            ],
+            [
+              "1004760",
+              "1004985"
+            ]
+          ],
+          "rcode": "09110111",
+          "businessStatus": {
+            "requestTime": "202405172024",
+            "status": {
+              "code": 8,
+              "text": "24시간 운영",
+              "emphasis": false,
+              "description": "24시간 운영",
+              "detailInfo": ""
+            },
+            "businessHours": "202405170000~202405172400",
+            "breakTime": "",
+            "lastOrder": ""
+          },
+          "naviInfoText": null,
+          "address": "서울특별시 종로구 옥인동 185-3",
+          "roadAddress": "",
+          "abbrAddress": null,
+          "shortAddress": null,
+          "display": "수성동<b>계곡</b>",
+          "telDisplay": "02-2148-2844",
+          "context": [
+            "계곡",
+            "자락길",
+            "산책로",
+            "편안한",
+            "등산"
+          ],
+          "reviewCount": 776,
+          "placeReviewCount": 29,
+          "ktCallMd": "318179693080d110b0d33bf724357dec",
+          "coupon": "0",
+          "thumUrl": "https://ldb-phinf.pstatic.net/20200720_236/15952017522437bxyS_JPEG/RYKA3QsMqiTwHxcZhOuR5obg.jpeg.jpg",
+          "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20200720_236/15952017522437bxyS_JPEG/RYKA3QsMqiTwHxcZhOuR5obg.jpeg.jpg"
+          ],
+          "type": "s",
+          "isSite": "1",
+          "posExact": "1",
+          "x": "126.9626765",
+          "y": "37.5826266",
+          "itemLevel": "7",
+          "isAdultBusiness": false,
+          "streetPanorama": {
+            "id": "30dEjJcHQZmMkc8c/+nxsw==",
+            "pan": "-79.23",
+            "tilt": "6.24",
+            "lng": "126.9639398",
+            "lat": "37.5821861",
+            "fov": "80"
+          },
+          "skyPanorama": null,
+          "insidePanorama": null,
+          "interiorPanorama": null,
+          "indoorPanorama": null,
+          "theme": null,
+          "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+              "poiShapeType": "1",
+              "shapeKey": null,
+              "boundary": null,
+              "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+          },
+          "homePage": "",
+          "description": "",
+          "entranceCoords": {
+            "car": [
+              {
+                "rep": true,
+                "x": 126.9647748,
+                "y": 37.5804177
+              }
+            ],
+            "walk": null
+          },
+          "isPollingPlace": false,
+          "bizhourInfo": "24시간 운영",
+          "menuInfo": "이용요금 0",
+          "petrolInfo": null,
+          "couponUrl": null,
+          "couponUrlMobile": null,
+          "hasCardBenefit": false,
+          "menuExist": "1",
+          "hasNaverBooking": false,
+          "naverBookingUrl": "",
+          "naverEasyOrderUrl": null,
+          "hasNaverSmartOrder": false,
+          "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+          },
+          "reservation": {
+            "benefit": ""
+          },
+          "hasBroadcastInfo": false,
+          "broadcastInfo": null,
+          "shopWindowInfo": null,
+          "hasNPay": false,
+          "carWash": "",
+          "parkingPrice": null,
+          "card": null,
+          "distance": "188834.42",
+          "marker": "nres://marker/00079-00145",
+          "markerSelected": "nres://marker/00079-00309",
+          "markerId": "222128",
+          "microReview": [],
+          "michelinGuide": null,
+          "indoor": null,
+          "markerLabel": null,
+          "subway": null,
+          "evChargerVendor": null,
+          "evChargerPublic": null,
+          "evChargerParking": null,
+          "evChargerInfo": null
+        },
+        {
+          "index": "12",
+          "rank": "13",
+          "id": "11491149",
+          "name": "동학사계곡",
+          "tel": "041-853-2111",
+          "isCallLink": false,
+          "virtualTel": "",
+          "virtualTelDisplay": "",
+          "ppc": "1",
+          "category": [
+            "여행,명소",
+            "계곡"
+          ],
+          "categoryPath": [
+            [
+              "222117",
+              "222118",
+              "222128"
+            ],
+            [
+              "1004760",
+              "1004985"
+            ]
+          ],
+          "rcode": "1515034033",
+          "businessStatus": {
+            "requestTime": "202405172024",
+            "status": {
+              "code": 0,
+              "text": "",
+              "emphasis": false,
+              "description": "정보 없음",
+              "detailInfo": ""
+            },
+            "businessHours": "",
+            "breakTime": "",
+            "lastOrder": ""
+          },
+          "naviInfoText": null,
+          "address": "충청남도 공주시 반포면 학봉리 동학사계곡",
+          "roadAddress": "",
+          "abbrAddress": null,
+          "shortAddress": null,
+          "display": "동학사<b>계곡</b>",
+          "telDisplay": "041-853-2111",
+          "context": [
+            "계곡",
+            "오리백숙",
+            "알밤막걸리",
+            "등산",
+            "산채비빔밥"
+          ],
+          "reviewCount": 173,
+          "placeReviewCount": 24,
+          "ktCallMd": "667d59113765ebe9cfbefae57a6691d6",
+          "coupon": "0",
+          "thumUrl": "http://blogfiles.naver.net/MjAyMzA4MDZfMTc3/MDAxNjkxMzE2OTIxMDAw.Dw01Wyy7u6XTMRx-9BpZDoPRy1Z6Gn2wesThJHbKeUwg.qUU-fZN9-KlYynR3Ny318wqXsqNieFKB8BeA5BusNLMg.JPEG.tldrld93/20230805%A3%DF140217.jpg#2252x4000",
+          "thumUrls": [],
+          "type": "s",
+          "isSite": "1",
+          "posExact": "1",
+          "x": "127.2315053",
+          "y": "36.3559423",
+          "itemLevel": "7",
+          "isAdultBusiness": false,
+          "streetPanorama": {
+            "id": "LSifg35duhPPXzxLEXlW2A==",
+            "pan": "-38.98",
+            "tilt": "-0.92",
+            "lng": "127.2312898",
+            "lat": "36.3563064",
+            "fov": "80"
+          },
+          "skyPanorama": {
+            "id": "dqeY2XGOMe/u3688+6q+8Q==",
+            "pan": "-51.05",
+            "tilt": "-30.00",
+            "lng": "127.2374953",
+            "lat": "36.3510953",
+            "fov": "124"
+          },
+          "insidePanorama": null,
+          "interiorPanorama": null,
+          "indoorPanorama": null,
+          "theme": null,
+          "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+              "poiShapeType": "1",
+              "shapeKey": null,
+              "boundary": null,
+              "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+          },
+          "homePage": "",
+          "description": "",
+          "entranceCoords": {
+            "car": [
+              {
+                "rep": true,
+                "x": 127.2382318,
+                "y": 36.3585507
+              }
+            ],
+            "walk": null
+          },
+          "isPollingPlace": false,
+          "bizhourInfo": "",
+          "menuInfo": null,
+          "petrolInfo": null,
+          "couponUrl": null,
+          "couponUrlMobile": null,
+          "hasCardBenefit": false,
+          "menuExist": "1",
+          "hasNaverBooking": false,
+          "naverBookingUrl": "",
+          "naverEasyOrderUrl": null,
+          "hasNaverSmartOrder": false,
+          "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+          },
+          "reservation": {
+            "benefit": ""
+          },
+          "hasBroadcastInfo": false,
+          "broadcastInfo": null,
+          "shopWindowInfo": null,
+          "hasNPay": false,
+          "carWash": "",
+          "parkingPrice": null,
+          "card": null,
+          "distance": "133256.41",
+          "marker": "nres://marker/00079-00145",
+          "markerSelected": "nres://marker/00079-00309",
+          "markerId": "222128",
+          "microReview": [],
+          "michelinGuide": null,
+          "indoor": null,
+          "markerLabel": null,
+          "subway": null,
+          "evChargerVendor": null,
+          "evChargerPublic": null,
+          "evChargerParking": null,
+          "evChargerInfo": null
+        },
+        {
+          "index": "13",
+          "rank": "14",
+          "id": "13490941",
+          "name": "남창계곡",
+          "tel": "",
+          "isCallLink": false,
+          "virtualTel": "",
+          "virtualTelDisplay": "",
+          "ppc": "0",
+          "category": [
+            "여행,명소",
+            "계곡"
+          ],
+          "categoryPath": [
+            [
+              "222117",
+              "222118",
+              "222128"
+            ],
+            [
+              "1004760",
+              "1004985"
+            ]
+          ],
+          "rcode": "1288040032",
+          "businessStatus": {
+            "requestTime": "202405172024",
+            "status": {
+              "code": 0,
+              "text": "",
+              "emphasis": false,
+              "description": "정보 없음",
+              "detailInfo": ""
+            },
+            "businessHours": "",
+            "breakTime": "",
+            "lastOrder": ""
+          },
+          "naviInfoText": null,
+          "address": "전라남도 장성군 북하면 신성리",
+          "roadAddress": "",
+          "abbrAddress": null,
+          "shortAddress": null,
+          "display": "남창<b>계곡</b>",
+          "telDisplay": "",
+          "context": [
+            "계곡",
+            "오토캠핑",
+            "닭백숙",
+            "깨끗한",
+            "등산"
+          ],
+          "reviewCount": 282,
+          "placeReviewCount": 10,
+          "ktCallMd": "7b876d99fd36657e9725a69146a075b5",
+          "coupon": "0",
+          "thumUrl": "https://ldb-phinf.pstatic.net/20150901_232/1441045545623GzxFL_JPEG/13490941_0.jpg",
+          "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20150901_232/1441045545623GzxFL_JPEG/13490941_0.jpg"
+          ],
+          "type": "s",
+          "isSite": "1",
+          "posExact": "1",
+          "x": "126.8419750",
+          "y": "35.4571679",
+          "itemLevel": "7",
+          "isAdultBusiness": false,
+          "streetPanorama": {
+            "id": "DmQCYj18+AHfuDsA5ihZiA==",
+            "pan": "-113.10",
+            "tilt": "10.00",
+            "lng": "126.8425453",
+            "lat": "35.4574105",
+            "fov": "120"
+          },
+          "skyPanorama": null,
+          "insidePanorama": null,
+          "interiorPanorama": null,
+          "indoorPanorama": null,
+          "theme": null,
+          "poiInfo": {
+            "relation": {
+              "poiShapeType": "1",
+              "shapeKey": {
+                "typeName": "RELA",
+                "wsid": "1.0",
+                "shapeID": "13490941"
+              },
+              "boundary": {
+                "minX": "117.9926027",
+                "minY": "19.6944771",
+                "maxX": "117.9926027",
+                "maxY": "19.6944771"
+              },
+              "detail": [
+                {
+                  "type": "1",
+                  "sid": "176861279",
+                  "fullName": "남창계곡주차장입구",
+                  "name": "주차장입구",
+                  "category": "입구(사람+차량)",
+                  "xPos": "126.8415248",
+                  "yPos": "35.4587043"
+                },
+                {
+                  "type": "3",
+                  "sid": "480574540",
+                  "fullName": "남창계곡주차장출구",
+                  "name": "주차장출구",
+                  "category": "출구(차량)",
+                  "xPos": "126.8421472",
+                  "yPos": "35.4577921"
+                }
+              ]
+            },
+            "hasRelation": true,
+            "road": {
+              "poiShapeType": "1",
+              "shapeKey": null,
+              "boundary": null,
+              "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+          },
+          "homePage": "",
+          "description": "",
+          "entranceCoords": {
+            "car": [
+              {
+                "rep": true,
+                "x": 126.8415248,
+                "y": 35.4587043
+              }
+            ],
+            "walk": [
+              {
+                "rep": true,
+                "x": 126.8415248,
+                "y": 35.4587043
+              }
+            ]
+          },
+          "isPollingPlace": false,
+          "bizhourInfo": "",
+          "menuInfo": null,
+          "petrolInfo": null,
+          "couponUrl": null,
+          "couponUrlMobile": null,
+          "hasCardBenefit": false,
+          "menuExist": "1",
+          "hasNaverBooking": false,
+          "naverBookingUrl": "",
+          "naverEasyOrderUrl": null,
+          "hasNaverSmartOrder": false,
+          "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+          },
+          "reservation": {
+            "benefit": ""
+          },
+          "hasBroadcastInfo": false,
+          "broadcastInfo": null,
+          "shopWindowInfo": null,
+          "hasNPay": false,
+          "carWash": "",
+          "parkingPrice": null,
+          "card": null,
+          "distance": "126660.40",
+          "marker": "nres://marker/00079-00145",
+          "markerSelected": "nres://marker/00079-00309",
+          "markerId": "222128",
+          "microReview": [],
+          "michelinGuide": null,
+          "indoor": null,
+          "markerLabel": null,
+          "subway": null,
+          "evChargerVendor": null,
+          "evChargerPublic": null,
+          "evChargerParking": null,
+          "evChargerInfo": null
+        },
+        {
+          "index": "14",
+          "rank": "15",
+          "id": "31206929",
+          "name": "운주계곡",
+          "tel": "",
+          "isCallLink": false,
+          "virtualTel": "",
+          "virtualTelDisplay": "",
+          "ppc": "0",
+          "category": [
+            "여행,명소",
+            "계곡"
+          ],
+          "categoryPath": [
+            [
+              "222117",
+              "222118",
+              "222128"
+            ],
+            [
+              "1004760",
+              "1004985"
+            ]
+          ],
+          "rcode": "1371038021",
+          "businessStatus": {
+            "requestTime": "202405172024",
+            "status": {
+              "code": 0,
+              "text": "",
+              "emphasis": false,
+              "description": "정보 없음",
+              "detailInfo": ""
+            },
+            "businessHours": "",
+            "breakTime": "",
+            "lastOrder": ""
+          },
+          "naviInfoText": null,
+          "address": "전북특별자치도 완주군 운주면 장선리",
+          "roadAddress": "",
+          "abbrAddress": null,
+          "shortAddress": null,
+          "display": "운주<b>계곡</b>",
+          "telDisplay": "",
+          "context": [
+            "계곡",
+            "유원지",
+            "수영장",
+            "깨끗한",
+            "힐링"
+          ],
+          "reviewCount": 208,
+          "placeReviewCount": 21,
+          "ktCallMd": "4eb5bc1909defd2a9db417f1ae573be6",
+          "coupon": "0",
+          "thumUrl": "http://blogfiles.naver.net/20130722_295/rlub1004_1374454273729mEB3s_JPEG/SAM_2913.JPG#900x600",
+          "thumUrls": [],
+          "type": "s",
+          "isSite": "1",
+          "posExact": "1",
+          "x": "127.2782950",
+          "y": "36.0911180",
+          "itemLevel": "12",
+          "isAdultBusiness": false,
+          "streetPanorama": {
+            "id": "KlyKN2HJiKgKFBZdxcVuig==",
+            "pan": "123.56",
+            "tilt": "6.33",
+            "lng": "127.2765986",
+            "lat": "36.0922754",
+            "fov": "80"
+          },
+          "skyPanorama": null,
+          "insidePanorama": null,
+          "interiorPanorama": null,
+          "indoorPanorama": null,
+          "theme": null,
+          "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+              "poiShapeType": "1",
+              "shapeKey": null,
+              "boundary": null,
+              "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+          },
+          "homePage": "",
+          "description": "",
+          "entranceCoords": {
+            "car": [
+              {
+                "rep": true,
+                "x": 127.2761373,
+                "y": 36.0917871
+              }
+            ],
+            "walk": [
+              {
+                "rep": true,
+                "x": 127.2761373,
+                "y": 36.0917871
+              }
+            ]
+          },
+          "isPollingPlace": false,
+          "bizhourInfo": "",
+          "menuInfo": null,
+          "petrolInfo": null,
+          "couponUrl": null,
+          "couponUrlMobile": null,
+          "hasCardBenefit": false,
+          "menuExist": "1",
+          "hasNaverBooking": false,
+          "naverBookingUrl": "",
+          "naverEasyOrderUrl": null,
+          "hasNaverSmartOrder": false,
+          "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+          },
+          "reservation": {
+            "benefit": ""
+          },
+          "hasBroadcastInfo": false,
+          "broadcastInfo": null,
+          "shopWindowInfo": null,
+          "hasNPay": false,
+          "carWash": "",
+          "parkingPrice": null,
+          "card": null,
+          "distance": "136693.62",
+          "marker": "nres://marker/00079-00145",
+          "markerSelected": "nres://marker/00079-00309",
+          "markerId": "222128",
+          "microReview": [],
+          "michelinGuide": null,
+          "indoor": null,
+          "markerLabel": null,
+          "subway": null,
+          "evChargerVendor": null,
+          "evChargerPublic": null,
+          "evChargerParking": null,
+          "evChargerInfo": null
+        },
+        {
+          "index": "15",
+          "rank": "16",
+          "id": "13400646",
+          "name": "백사실계곡",
+          "tel": "",
+          "isCallLink": false,
+          "virtualTel": "",
+          "virtualTelDisplay": "",
+          "ppc": "0",
+          "category": [
+            "여행,명소",
+            "계곡"
+          ],
+          "categoryPath": [
+            [
+              "222117",
+              "222118",
+              "222128"
+            ],
+            [
+              "1004760",
+              "1004985"
+            ]
+          ],
+          "rcode": "09110184",
+          "businessStatus": {
+            "requestTime": "202405172024",
+            "status": {
+              "code": 0,
+              "text": "",
+              "emphasis": false,
+              "description": "정보 없음",
+              "detailInfo": ""
+            },
+            "businessHours": "",
+            "breakTime": "",
+            "lastOrder": ""
+          },
+          "naviInfoText": null,
+          "address": "서울특별시 종로구 부암동 115",
+          "roadAddress": "",
+          "abbrAddress": null,
+          "shortAddress": null,
+          "display": "백사실<b>계곡</b>",
+          "telDisplay": "",
+          "context": [
+            "계곡",
+            "성곽길",
+            "산책로",
+            "편안한",
+            "등산"
+          ],
+          "reviewCount": 429,
+          "placeReviewCount": 17,
+          "ktCallMd": "af0bb5e3a129079034a27f7ffee23cca",
+          "coupon": "0",
+          "thumUrl": "http://blogfiles.naver.net/MjAxNzA5MTlfMjE5/MDAxNTA1NzgxMjgzOTQx.X_mn91CCdPO8SANjmXTO2co5qsOL0CqV4PcZiWmQ3qQg.BbrpeutDAGlm4ziA38uwGf3jxiLdr8qMWNOsTQuGs3Ag.JPEG.sup_kd/20621310_1490975227633431_8184670972058753934_n.jpg#960x720",
+          "thumUrls": [],
+          "type": "s",
+          "isSite": "1",
+          "posExact": "1",
+          "x": "126.9666626",
+          "y": "37.6007988",
+          "itemLevel": "7",
+          "isAdultBusiness": false,
+          "streetPanorama": null,
+          "skyPanorama": null,
+          "insidePanorama": null,
+          "interiorPanorama": null,
+          "indoorPanorama": null,
+          "theme": null,
+          "poiInfo": {
+            "relation": {
+              "poiShapeType": "1",
+              "shapeKey": {
+                "typeName": "RELA",
+                "wsid": "1.0",
+                "shapeID": "13400646"
+              },
+              "boundary": {
+                "minX": "117.9926027",
+                "minY": "19.6944771",
+                "maxX": "117.9926027",
+                "maxY": "19.6944771"
+              },
+              "detail": [
+                {
+                  "type": "5",
+                  "sid": "18686936",
+                  "fullName": "백사실계곡입구",
+                  "name": "입구",
+                  "category": "입구(사람)",
+                  "xPos": "126.9644409",
+                  "yPos": "37.6015324"
+                },
+                {
+                  "type": "5",
+                  "sid": "21238451",
+                  "fullName": "백사실계곡입구",
+                  "name": "입구",
+                  "category": "입구(사람)",
+                  "xPos": "126.9671460",
+                  "yPos": "37.5980914"
+                }
+              ]
+            },
+            "hasRelation": true,
+            "road": {
+              "poiShapeType": "1",
+              "shapeKey": null,
+              "boundary": null,
+              "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+          },
+          "homePage": "",
+          "description": "",
+          "entranceCoords": {
+            "car": [
+              {
+                "rep": true,
+                "x": 126.967146,
+                "y": 37.5980914
+              }
+            ],
+            "walk": [
+              {
+                "rep": true,
+                "x": 126.967146,
+                "y": 37.5980914
+              },
+              {
+                "rep": false,
+                "x": 126.9644409,
+                "y": 37.6015324
+              }
+            ]
+          },
+          "isPollingPlace": false,
+          "bizhourInfo": "",
+          "menuInfo": null,
+          "petrolInfo": null,
+          "couponUrl": null,
+          "couponUrlMobile": null,
+          "hasCardBenefit": false,
+          "menuExist": "1",
+          "hasNaverBooking": false,
+          "naverBookingUrl": "",
+          "naverEasyOrderUrl": null,
+          "hasNaverSmartOrder": false,
+          "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+          },
+          "reservation": {
+            "benefit": ""
+          },
+          "hasBroadcastInfo": false,
+          "broadcastInfo": null,
+          "shopWindowInfo": null,
+          "hasNPay": false,
+          "carWash": "",
+          "parkingPrice": null,
+          "card": null,
+          "distance": "190697.16",
+          "marker": "nres://marker/00079-00145",
+          "markerSelected": "nres://marker/00079-00309",
+          "markerId": "222128",
+          "microReview": [],
+          "michelinGuide": null,
+          "indoor": null,
+          "markerLabel": null,
+          "subway": null,
+          "evChargerVendor": null,
+          "evChargerPublic": null,
+          "evChargerParking": null,
+          "evChargerInfo": null
+        },
+        {
+          "index": "16",
+          "rank": "17",
+          "id": "13491968",
+          "name": "도림사계곡",
+          "tel": "061-360-8379",
+          "isCallLink": false,
+          "virtualTel": "",
+          "virtualTelDisplay": "",
+          "ppc": "1",
+          "category": [
+            "여행,명소",
+            "계곡"
+          ],
+          "categoryPath": [
+            [
+              "222117",
+              "222118",
+              "222128"
+            ],
+            [
+              "1004760",
+              "1004985"
+            ]
+          ],
+          "rcode": "1272025026",
+          "businessStatus": {
+            "requestTime": "202405172024",
+            "status": {
+              "code": 0,
+              "text": "",
+              "emphasis": false,
+              "description": "정보 없음",
+              "detailInfo": ""
+            },
+            "businessHours": "",
+            "breakTime": "",
+            "lastOrder": ""
+          },
+          "naviInfoText": null,
+          "address": "전라남도 곡성군 곡성읍 월봉리",
+          "roadAddress": "",
+          "abbrAddress": null,
+          "shortAddress": null,
+          "display": "도림사<b>계곡</b>",
+          "telDisplay": "061-360-8379",
+          "context": [
+            "계곡",
+            "오토캠핑",
+            "치킨",
+            "화려한",
+            "힐링"
+          ],
+          "reviewCount": 222,
+          "placeReviewCount": 69,
+          "ktCallMd": "36fdd5e8a5d095f0aba2f11df995144b",
+          "coupon": "0",
+          "thumUrl": "https://ldb-phinf.pstatic.net/20150901_125/1441045709974W7v5c_JPEG/13491968_0.jpg",
+          "thumUrls": [
+            "https://ldb-phinf.pstatic.net/20150901_125/1441045709974W7v5c_JPEG/13491968_0.jpg"
+          ],
+          "type": "s",
+          "isSite": "1",
+          "posExact": "1",
+          "x": "127.2616601",
+          "y": "35.2652425",
+          "itemLevel": "7",
+          "isAdultBusiness": false,
+          "streetPanorama": {
+            "id": "qzLlwsBM7tjOnSXSOi/gRQ==",
+            "pan": "3.51",
+            "tilt": "5.63",
+            "lng": "127.2618068",
+            "lat": "35.2648048",
+            "fov": "80"
+          },
+          "skyPanorama": null,
+          "insidePanorama": null,
+          "interiorPanorama": null,
+          "indoorPanorama": null,
+          "theme": null,
+          "poiInfo": {
+            "relation": {
+              "poiShapeType": "1",
+              "shapeKey": {
+                "typeName": "RELA",
+                "wsid": "1.0",
+                "shapeID": "13491968"
+              },
+              "boundary": {
+                "minX": "117.9926027",
+                "minY": "19.6944771",
+                "maxX": "117.9926027",
+                "maxY": "19.6944771"
+              },
+              "detail": null
+            },
+            "hasRelation": true,
+            "road": {
+              "poiShapeType": "1",
+              "shapeKey": null,
+              "boundary": null,
+              "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+          },
+          "homePage": "",
+          "description": "",
+          "entranceCoords": null,
+          "isPollingPlace": false,
+          "bizhourInfo": "",
+          "menuInfo": null,
+          "petrolInfo": null,
+          "couponUrl": null,
+          "couponUrlMobile": null,
+          "hasCardBenefit": false,
+          "menuExist": "1",
+          "hasNaverBooking": false,
+          "naverBookingUrl": "",
+          "naverEasyOrderUrl": null,
+          "hasNaverSmartOrder": false,
+          "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+          },
+          "reservation": {
+            "benefit": ""
+          },
+          "hasBroadcastInfo": false,
+          "broadcastInfo": null,
+          "shopWindowInfo": null,
+          "hasNPay": false,
+          "carWash": "",
+          "parkingPrice": null,
+          "card": null,
+          "distance": "169751.20",
+          "marker": "nres://marker/00079-00145",
+          "markerSelected": "nres://marker/00079-00309",
+          "markerId": "222128",
+          "microReview": [],
+          "michelinGuide": null,
+          "indoor": null,
+          "markerLabel": null,
+          "subway": null,
+          "evChargerVendor": null,
+          "evChargerPublic": null,
+          "evChargerParking": null,
+          "evChargerInfo": null
+        },
+        {
+          "index": "17",
+          "rank": "18",
+          "id": "13491741",
+          "name": "고기리계곡",
+          "tel": "",
+          "isCallLink": false,
+          "virtualTel": "",
+          "virtualTelDisplay": "",
+          "ppc": "0",
+          "category": [
+            "여행,명소",
+            "계곡"
+          ],
+          "categoryPath": [
+            [
+              "222117",
+              "222118",
+              "222128"
+            ],
+            [
+              "1004760",
+              "1004985"
+            ]
+          ],
+          "rcode": "02465104",
+          "businessStatus": {
+            "requestTime": "202405172024",
+            "status": {
+              "code": 0,
+              "text": "",
+              "emphasis": false,
+              "description": "정보 없음",
+              "detailInfo": ""
+            },
+            "businessHours": "",
+            "breakTime": "",
+            "lastOrder": ""
+          },
+          "naviInfoText": null,
+          "address": "경기도 용인시 수지구 고기동 821",
+          "roadAddress": "",
+          "abbrAddress": null,
+          "shortAddress": null,
+          "display": "고기리<b>계곡</b>",
+          "telDisplay": "",
+          "context": [
+            "계곡",
+            "닭백숙",
+            "오리백숙",
+            "깨끗한",
+            "나들이"
+          ],
+          "reviewCount": 457,
+          "placeReviewCount": 43,
+          "ktCallMd": "83b45d362da8ebaeb4b24b6c7b6b15d5",
+          "coupon": "0",
+          "thumUrl": "http://blogfiles.naver.net/20160718_118/frux9_1468824587022xvPNO_JPEG/%B0%ED%B1%E2%B8%AE%B0%E8%B0%EE_13.jpg#800x533",
+          "thumUrls": [],
+          "type": "s",
+          "isSite": "1",
+          "posExact": "1",
+          "x": "127.0440309",
+          "y": "37.3580099",
+          "itemLevel": "12",
+          "isAdultBusiness": false,
+          "streetPanorama": {
+            "id": "dGz73I3BwV+VNmC7KvPw0Q==",
+            "pan": "-150.47",
+            "tilt": "10.63",
+            "lng": "127.0439463",
+            "lat": "37.3579240",
+            "fov": "80"
+          },
+          "skyPanorama": null,
+          "insidePanorama": null,
+          "interiorPanorama": null,
+          "indoorPanorama": null,
+          "theme": null,
+          "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+              "poiShapeType": "1",
+              "shapeKey": null,
+              "boundary": null,
+              "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+          },
+          "homePage": "",
+          "description": "",
+          "entranceCoords": null,
+          "isPollingPlace": false,
+          "bizhourInfo": "",
+          "menuInfo": null,
+          "petrolInfo": null,
+          "couponUrl": null,
+          "couponUrlMobile": null,
+          "hasCardBenefit": false,
+          "menuExist": "1",
+          "hasNaverBooking": false,
+          "naverBookingUrl": "",
+          "naverEasyOrderUrl": null,
+          "hasNaverSmartOrder": false,
+          "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+          },
+          "reservation": {
+            "benefit": ""
+          },
+          "hasBroadcastInfo": false,
+          "broadcastInfo": null,
+          "shopWindowInfo": null,
+          "hasNPay": false,
+          "carWash": "",
+          "parkingPrice": null,
+          "card": null,
+          "distance": "173609.17",
+          "marker": "nres://marker/00079-00145",
+          "markerSelected": "nres://marker/00079-00309",
+          "markerId": "222128",
+          "microReview": [],
+          "michelinGuide": null,
+          "indoor": null,
+          "markerLabel": null,
+          "subway": null,
+          "evChargerVendor": null,
+          "evChargerPublic": null,
+          "evChargerParking": null,
+          "evChargerInfo": null
+        },
+        {
+          "index": "18",
+          "rank": "19",
+          "id": "17753204",
+          "name": "작천계곡",
+          "tel": "",
+          "isCallLink": false,
+          "virtualTel": "",
+          "virtualTelDisplay": "",
+          "ppc": "0",
+          "category": [
+            "여행,명소",
+            "계곡"
+          ],
+          "categoryPath": [
+            [
+              "222117",
+              "222118",
+              "222128"
+            ],
+            [
+              "1004760",
+              "1005205"
+            ]
+          ],
+          "rcode": "1579032027",
+          "businessStatus": {
+            "requestTime": "202405172024",
+            "status": {
+              "code": 0,
+              "text": "",
+              "emphasis": false,
+              "description": "정보 없음",
+              "detailInfo": ""
+            },
+            "businessHours": "",
+            "breakTime": "",
+            "lastOrder": ""
+          },
+          "naviInfoText": null,
+          "address": "충청남도 청양군 대치면 작천리",
+          "roadAddress": "",
+          "abbrAddress": null,
+          "shortAddress": null,
+          "display": "작천<b>계곡</b>",
+          "telDisplay": "",
+          "context": [],
+          "reviewCount": 8,
+          "placeReviewCount": 0,
+          "ktCallMd": "283db9408b44232be8ea3185160820b1",
+          "coupon": "0",
+          "thumUrl": null,
+          "thumUrls": [],
+          "type": "s",
+          "isSite": "1",
+          "posExact": "1",
+          "x": "126.8643897",
+          "y": "36.3943999",
+          "itemLevel": "7",
+          "isAdultBusiness": false,
+          "streetPanorama": null,
+          "skyPanorama": null,
+          "insidePanorama": null,
+          "interiorPanorama": null,
+          "indoorPanorama": null,
+          "theme": null,
+          "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+              "poiShapeType": "1",
+              "shapeKey": null,
+              "boundary": null,
+              "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+          },
+          "homePage": "",
+          "description": "",
+          "entranceCoords": {
+            "car": [
+              {
+                "rep": true,
+                "x": 126.8601785,
+                "y": 36.3933804
+              }
+            ],
+            "walk": [
+              {
+                "rep": true,
+                "x": 126.8601785,
+                "y": 36.3933804
+              }
+            ]
+          },
+          "isPollingPlace": false,
+          "bizhourInfo": "",
+          "menuInfo": null,
+          "petrolInfo": null,
+          "couponUrl": null,
+          "couponUrlMobile": null,
+          "hasCardBenefit": false,
+          "menuExist": "0",
+          "hasNaverBooking": false,
+          "naverBookingUrl": "",
+          "naverEasyOrderUrl": null,
+          "hasNaverSmartOrder": false,
+          "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+          },
+          "reservation": {
+            "benefit": ""
+          },
+          "hasBroadcastInfo": false,
+          "broadcastInfo": null,
+          "shopWindowInfo": null,
+          "hasNPay": false,
+          "carWash": "",
+          "parkingPrice": null,
+          "card": null,
+          "distance": "101646.95",
+          "marker": "nres://marker/00079-00145",
+          "markerSelected": "nres://marker/00079-00309",
+          "markerId": "222128",
+          "microReview": [],
+          "michelinGuide": null,
+          "indoor": null,
+          "markerLabel": null,
+          "subway": null,
+          "evChargerVendor": null,
+          "evChargerPublic": null,
+          "evChargerParking": null,
+          "evChargerInfo": null
+        },
+        {
+          "index": "19",
+          "rank": "20",
+          "id": "16766524",
+          "name": "와룡소계곡",
+          "tel": "",
+          "isCallLink": false,
+          "virtualTel": "",
+          "virtualTelDisplay": "",
+          "ppc": "0",
+          "category": [
+            "여행,명소",
+            "계곡"
+          ],
+          "categoryPath": [
+            [
+              "222117",
+              "222118",
+              "222128"
+            ]
+          ],
+          "rcode": "1380039027",
+          "businessStatus": {
+            "requestTime": "202405172024",
+            "status": {
+              "code": 0,
+              "text": "",
+              "emphasis": false,
+              "description": "정보 없음",
+              "detailInfo": ""
+            },
+            "businessHours": "",
+            "breakTime": "",
+            "lastOrder": ""
+          },
+          "naviInfoText": null,
+          "address": "전북특별자치도 부안군 상서면 청림리",
+          "roadAddress": "",
+          "abbrAddress": null,
+          "shortAddress": null,
+          "display": "와룡소<b>계곡</b>",
+          "telDisplay": "",
+          "context": [],
+          "reviewCount": 4,
+          "placeReviewCount": 0,
+          "ktCallMd": "a6fe0d8d9e6b0bd672614c354fed8df2",
+          "coupon": "0",
+          "thumUrl": null,
+          "thumUrls": [],
+          "type": "s",
+          "isSite": "1",
+          "posExact": "1",
+          "x": "126.6013629",
+          "y": "35.6398352",
+          "itemLevel": "7",
+          "isAdultBusiness": false,
+          "streetPanorama": null,
+          "skyPanorama": null,
+          "insidePanorama": null,
+          "interiorPanorama": null,
+          "indoorPanorama": null,
+          "theme": null,
+          "poiInfo": {
+            "relation": null,
+            "hasRelation": false,
+            "road": {
+              "poiShapeType": "1",
+              "shapeKey": null,
+              "boundary": null,
+              "detail": null
+            },
+            "hasRoad": false,
+            "land": null,
+            "hasLand": false,
+            "polygon": null,
+            "hasPolygon": false
+          },
+          "homePage": "",
+          "description": "",
+          "entranceCoords": {
+            "car": [
+              {
+                "rep": true,
+                "x": 126.5802884,
+                "y": 35.6412831
+              }
+            ],
+            "walk": [
+              {
+                "rep": true,
+                "x": 126.5802884,
+                "y": 35.6412831
+              }
+            ]
+          },
+          "isPollingPlace": false,
+          "bizhourInfo": "",
+          "menuInfo": null,
+          "petrolInfo": null,
+          "couponUrl": null,
+          "couponUrlMobile": null,
+          "hasCardBenefit": false,
+          "menuExist": "0",
+          "hasNaverBooking": false,
+          "naverBookingUrl": "",
+          "naverEasyOrderUrl": null,
+          "hasNaverSmartOrder": false,
+          "reservationLabel": {
+            "standard": false,
+            "preOrder": false,
+            "table": false,
+            "takeout": false
+          },
+          "reservation": {
+            "benefit": ""
+          },
+          "hasBroadcastInfo": false,
+          "broadcastInfo": null,
+          "shopWindowInfo": null,
+          "hasNPay": false,
+          "carWash": "",
+          "parkingPrice": null,
+          "card": null,
+          "distance": "96918.38",
+          "marker": "nres://marker/00079-00145",
+          "markerSelected": "nres://marker/00079-00309",
+          "markerId": "222128",
+          "microReview": [],
+          "michelinGuide": null,
+          "indoor": null,
+          "markerLabel": null,
+          "subway": null,
+          "evChargerVendor": null,
+          "evChargerPublic": null,
+          "evChargerParking": null,
+          "evChargerInfo": null
+        }
+      ]
+    },
+    "bus": {
+      "subType": "bus-station",
+      "feedback": [
+        "'전국'의 <strong>'계곡'</strong> 검색결과"
+      ],
+      "options": {
+        "rank": "0"
+      },
+      "links": {
+        "linkQuery": null,
+        "others": null,
+        "queryForDupRegion": null
+      },
+      "busRoute": {
+        "page": 1,
+        "totalCount": 147,
+        "boundary": null,
+        "filters": {
+          "busRouteTypeCodeList": [
+            {
+              "typeName": "일반",
+              "typeCode": "1"
+            },
+            {
+              "typeName": "좌석",
+              "typeCode": "2"
+            },
+            {
+              "typeName": "마을",
+              "typeCode": "3"
+            },
+            {
+              "typeName": "직행좌석",
+              "typeCode": "4"
+            },
+            {
+              "typeName": "공항",
+              "typeCode": "5"
+            },
+            {
+              "typeName": "간선",
+              "typeCode": "11"
+            },
+            {
+              "typeName": "지선",
+              "typeCode": "12"
+            },
+            {
+              "typeName": "농어촌",
+              "typeCode": "20"
+            },
+            {
+              "typeName": "심야",
+              "typeCode": "32"
+            }
+          ],
+          "doCodeList": [
+            {
+              "doCode": "1000",
+              "doName": "서울특별시",
+              "doNameAlias": "서울"
+            },
+            {
+              "doCode": "100",
+              "doName": "경기도",
+              "doNameAlias": "경기"
+            },
+            {
+              "doCode": "10",
+              "doName": "강원특별자치도",
+              "doNameAlias": "강원"
+            },
+            {
+              "doCode": "11",
+              "doName": "충청북도",
+              "doNameAlias": "충북"
+            },
+            {
+              "doCode": "300",
+              "doName": "충청남도",
+              "doNameAlias": "충남"
+            },
+            {
+              "doCode": "400",
+              "doName": "경상북도",
+              "doNameAlias": "경북"
+            },
+            {
+              "doCode": "700",
+              "doName": "경상남도",
+              "doNameAlias": "경남"
+            },
+            {
+              "doCode": "9",
+              "doName": "전라북도",
+              "doNameAlias": "전북"
+            },
+            {
+              "doCode": "500",
+              "doName": "전라남도",
+              "doNameAlias": "전남"
+            },
+            {
+              "doCode": "8",
+              "doName": "제주특별자치도",
+              "doNameAlias": "제주"
+            }
+          ]
+        },
+        "list": [
+          {
+            "index": 0,
+            "rank": 1,
+            "id": "2270112",
+            "name": "640",
+            "aliasName": "석불산.청호",
+            "displayName": "640(석불산.청호)",
+            "cityCode": "9080",
+            "cityName": "부안군",
+            "type": "20",
+            "typeName": "농어촌",
+            "typeIconName": "농어촌",
+            "startPoint": "돈지",
+            "endPoint": "부안",
+            "turningPointIdx": "-1",
+            "firstTime": "10:00",
+            "lastTime": "10:00",
+            "intervalTime": "",
+            "intervalCount": "1",
+            "liveUpdate": false,
+            "useInterval": true,
+            "mainStation": "서돈-노곡-청호리-삼현-계곡-원중-대포-삼간-계시-송정-부안시외버스터미널",
+            "event": null
+          },
+          {
+            "index": 1,
+            "rank": 2,
+            "id": "2270113",
+            "name": "640",
+            "aliasName": "청호",
+            "displayName": "640(청호)",
+            "cityCode": "9080",
+            "cityName": "부안군",
+            "type": "20",
+            "typeName": "농어촌",
+            "typeIconName": "농어촌",
+            "startPoint": "돈지",
+            "endPoint": "부안",
+            "turningPointIdx": "-1",
+            "firstTime": "07:00",
+            "lastTime": "20:45",
+            "intervalTime": "",
+            "intervalCount": "11",
+            "liveUpdate": false,
+            "useInterval": true,
+            "mainStation": "서돈-노곡-청호리-삼현-청호-언독-삼간마을-삼간-정금-서부버스정류장",
+            "event": null
+          },
+          {
+            "index": 2,
+            "rank": 3,
+            "id": "20019491",
+            "name": "100",
+            "aliasName": "부안-격포-마포-변산-비득지-하서-부안",
+            "displayName": "100(부안-격포-마포-변산-비득지-하서-부안)",
+            "cityCode": "9080",
+            "cityName": "부안군",
+            "type": "20",
+            "typeName": "농어촌",
+            "typeIconName": "농어촌",
+            "startPoint": "부안터미널",
+            "endPoint": "부안터미널",
+            "turningPointIdx": "32",
+            "firstTime": "06:20",
+            "lastTime": "08:15",
+            "intervalTime": "115",
+            "intervalCount": "12",
+            "liveUpdate": true,
+            "useInterval": true,
+            "mainStation": "",
+            "event": null
+          },
+          {
+            "index": 3,
+            "rank": 4,
+            "id": "20019490",
+            "name": "101",
+            "aliasName": "부안-격포-격포-마포-변산-하서-부안",
+            "displayName": "101(부안-격포-격포-마포-변산-하서-부안)",
+            "cityCode": "9080",
+            "cityName": "부안군",
+            "type": "20",
+            "typeName": "농어촌",
+            "typeIconName": "농어촌",
+            "startPoint": "부안터미널",
+            "endPoint": "격포항터미널",
+            "turningPointIdx": "29",
+            "firstTime": "07:45",
+            "lastTime": "10:05",
+            "intervalTime": "270",
+            "intervalCount": "4",
+            "liveUpdate": true,
+            "useInterval": true,
+            "mainStation": "",
+            "event": null
+          },
+          {
+            "index": 4,
+            "rank": 5,
+            "id": "2270236",
+            "name": "640",
+            "aliasName": "청호",
+            "displayName": "640(청호)",
+            "cityCode": "9080",
+            "cityName": "부안군",
+            "type": "20",
+            "typeName": "농어촌",
+            "typeIconName": "농어촌",
+            "startPoint": "부안",
+            "endPoint": "돈지",
+            "turningPointIdx": "-1",
+            "firstTime": "06:25",
+            "lastTime": "20:00",
+            "intervalTime": "",
+            "intervalCount": "11",
+            "liveUpdate": false,
+            "useInterval": true,
+            "mainStation": "부안시외버스터미널-상설시장-부안중학교-정금-삼간-삼간마을-언독-청호-삼현-청호리-노곡-서돈",
+            "event": null
+          },
+          {
+            "index": 5,
+            "rank": 6,
+            "id": "2270238",
+            "name": "640",
+            "aliasName": "청호.석불산",
+            "displayName": "640(청호.석불산)",
+            "cityCode": "9080",
+            "cityName": "부안군",
+            "type": "20",
+            "typeName": "농어촌",
+            "typeIconName": "농어촌",
+            "startPoint": "부안",
+            "endPoint": "돈지",
+            "turningPointIdx": "-1",
+            "firstTime": "12:40",
+            "lastTime": "12:40",
+            "intervalTime": "",
+            "intervalCount": "1",
+            "liveUpdate": false,
+            "useInterval": true,
+            "mainStation": "부안시외버스터미널-상설시장-부안중학교-정금-삼간-삼간마을-언독-청호-석불산영상랜드-농원-청호리-의복",
+            "event": null
+          },
+          {
+            "index": 6,
+            "rank": 7,
+            "id": "18006",
+            "name": "35",
+            "aliasName": "",
+            "displayName": "35",
+            "cityCode": "1270",
+            "cityName": "안성",
+            "type": "1",
+            "typeName": "일반",
+            "typeIconName": "일반",
+            "startPoint": "(구)안성터미널",
+            "endPoint": "백암터미널",
+            "turningPointIdx": "46",
+            "firstTime": "11:00",
+            "lastTime": "17:00",
+            "intervalTime": "240",
+            "intervalCount": "3",
+            "liveUpdate": true,
+            "useInterval": true,
+            "mainStation": "",
+            "event": null
+          },
+          {
+            "index": 7,
+            "rank": 8,
+            "id": "18086",
+            "name": "35-2",
+            "aliasName": "",
+            "displayName": "35-2",
+            "cityCode": "1270",
+            "cityName": "안성",
+            "type": "1",
+            "typeName": "일반",
+            "typeIconName": "일반",
+            "startPoint": "삼죽",
+            "endPoint": "백암터미널",
+            "turningPointIdx": "22",
+            "firstTime": "06:40",
+            "lastTime": "21:00",
+            "intervalTime": "",
+            "intervalCount": "",
+            "liveUpdate": true,
+            "useInterval": true,
+            "mainStation": "삼죽-계곡-율곡리.우미건설-새래-곡율.선영주유소-장계리-내수곡-백암면주민자치센터-백암중고교-영곡-강촌-장평삼거리-율현마을-하덕-삼죽초등학교",
+            "event": null
+          },
+          {
+            "index": 8,
+            "rank": 9,
+            "id": "1380351",
+            "name": "480",
+            "aliasName": "",
+            "displayName": "480",
+            "cityCode": "3050",
+            "cityName": "서산",
+            "type": "1",
+            "typeName": "일반",
+            "typeIconName": "일반",
+            "startPoint": "서산공용버스터미널",
+            "endPoint": "서산공용버스터미널",
+            "turningPointIdx": "-1",
+            "firstTime": "11:35",
+            "lastTime": "11:35",
+            "intervalTime": "",
+            "intervalCount": "",
+            "liveUpdate": true,
+            "useInterval": true,
+            "mainStation": "서산공용버스터미널-잠홍동-도당5리-탑곡2리-운산면사무소-갈산3리-고풍리-용현계곡-고풍리-원평리-고풍리-영락원-용장1리-탑곡3리-도당4리-상홍3리-허니문웨딩홀",
+            "event": null
+          },
+          {
+            "index": 9,
+            "rank": 10,
+            "id": "1380357",
+            "name": "480",
+            "aliasName": "",
+            "displayName": "480",
+            "cityCode": "3050",
+            "cityName": "서산",
+            "type": "1",
+            "typeName": "일반",
+            "typeIconName": "일반",
+            "startPoint": "서산공용버스터미널",
+            "endPoint": "서산공용버스터미널",
+            "turningPointIdx": "-1",
+            "firstTime": "16:00",
+            "lastTime": "16:00",
+            "intervalTime": "",
+            "intervalCount": "",
+            "liveUpdate": true,
+            "useInterval": true,
+            "mainStation": "서산공용버스터미널-잠홍동-도당5리-탑곡2리-운산면사무소-갈산3리-고풍리-용현계곡-고풍리-원평리-고풍리-대철중학교-갈산1리-탑곡1리-청춘예찬공원-서령버스",
+            "event": null
+          },
+          {
+            "index": 10,
+            "rank": 11,
+            "id": "1380358",
+            "name": "481",
+            "aliasName": "",
+            "displayName": "481",
+            "cityCode": "3050",
+            "cityName": "서산",
+            "type": "1",
+            "typeName": "일반",
+            "typeIconName": "일반",
+            "startPoint": "서산공용버스터미널",
+            "endPoint": "원평리",
+            "turningPointIdx": "-1",
+            "firstTime": "19:15",
+            "lastTime": "19:15",
+            "intervalTime": "",
+            "intervalCount": "",
+            "liveUpdate": true,
+            "useInterval": true,
+            "mainStation": "서산공용버스터미널-서동초등학교-상홍3리-도당5리-음암-탑곡3리-운산면사무소-갈산리-용장2리-고풍리-마애여래삼존상-용현계곡-고풍리-원평삼거리-와우1리-와우1리",
+            "event": null
+          },
+          {
+            "index": 11,
+            "rank": 12,
+            "id": "1380360",
+            "name": "482",
+            "aliasName": "",
+            "displayName": "482",
+            "cityCode": "3050",
+            "cityName": "서산",
+            "type": "1",
+            "typeName": "일반",
+            "typeIconName": "일반",
+            "startPoint": "와우2리",
+            "endPoint": "서산공용버스터미널",
+            "turningPointIdx": "-1",
+            "firstTime": "10:05",
+            "lastTime": "10:05",
+            "intervalTime": "",
+            "intervalCount": "",
+            "liveUpdate": true,
+            "useInterval": true,
+            "mainStation": "와우2리-와우2리-원평리-용현2리-용현2리종점-용현2리-고풍터널-갈산3리-용장1리-갈산4리-탑곡2리-도당4리-상홍3리-잠홍1통회관-허니문웨딩홀",
+            "event": null
+          },
+          {
+            "index": 12,
+            "rank": 13,
+            "id": "1380362",
+            "name": "482",
+            "aliasName": "",
+            "displayName": "482",
+            "cityCode": "3050",
+            "cityName": "서산",
+            "type": "1",
+            "typeName": "일반",
+            "typeIconName": "일반",
+            "startPoint": "서산공용버스터미널",
+            "endPoint": "서산공용버스터미널",
+            "turningPointIdx": "-1",
+            "firstTime": "13:50",
+            "lastTime": "13:50",
+            "intervalTime": "",
+            "intervalCount": "",
+            "liveUpdate": true,
+            "useInterval": true,
+            "mainStation": "서산공용버스터미널-서동어린이집-도당4리-가좌리-갈산리-고풍터널-용현계곡-고풍리-암소고개-암소고개-고풍리-갈산3리-갈산1리-음암-서산중앙병원-허니문웨딩홀",
+            "event": null
+          },
+          {
+            "index": 13,
+            "rank": 14,
+            "id": "2821994",
+            "name": "40-2",
+            "aliasName": "(303)고성.계곡",
+            "displayName": "40-2((303)고성.계곡)",
+            "cityCode": "5100",
+            "cityName": "담양군",
+            "type": "20",
+            "typeName": "농어촌",
+            "typeIconName": "농어촌",
+            "startPoint": "담양",
+            "endPoint": "대치",
+            "turningPointIdx": "-1",
+            "firstTime": "13:20",
+            "lastTime": "17:20",
+            "intervalTime": "",
+            "intervalCount": "2",
+            "liveUpdate": false,
+            "useInterval": true,
+            "mainStation": "담양터미널-담양교.담주리-삼다리-가산리-주평-남전문화마을-수북면사무소-고성리-고성리-고성리-덕진-행성-사성-계곡마을-금구마을-사성-병풍-대치사거리",
+            "event": null
+          },
+          {
+            "index": 14,
+            "rank": 15,
+            "id": "2822179",
+            "name": "40-4",
+            "aliasName": "(303)양우아파트.계곡.대치.청룡.중옥.강의리",
+            "displayName": "40-4((303)양우아파트.계곡.대치.청룡.중옥.강의리)",
+            "cityCode": "5100",
+            "cityName": "담양군",
+            "type": "20",
+            "typeName": "농어촌",
+            "typeIconName": "농어촌",
+            "startPoint": "담양",
+            "endPoint": "대치",
+            "turningPointIdx": "-1",
+            "firstTime": "07:50",
+            "lastTime": "07:50",
+            "intervalTime": "",
+            "intervalCount": "1",
+            "liveUpdate": false,
+            "useInterval": true,
+            "mainStation": "담양터미널-사미정.소방서-담빛리-담빛리-풍수리-수북면사무소-월성(담양)-행성-갑향리-금구마을-사성마을-대치사거리-신룡마을-태목리-월인-대치사거리",
+            "event": null
+          },
+          {
+            "index": 15,
+            "rank": 16,
+            "id": "545",
+            "name": "금천11",
+            "aliasName": "",
+            "displayName": "금천11",
+            "cityCode": "1000",
+            "cityName": "서울",
+            "type": "3",
+            "typeName": "마을",
+            "typeIconName": "마을",
+            "startPoint": "산기슭공원",
+            "endPoint": "석수역",
+            "turningPointIdx": "17",
+            "firstTime": "05:20",
+            "lastTime": "23:00",
+            "intervalTime": "23",
+            "intervalCount": "",
+            "liveUpdate": true,
+            "useInterval": true,
+            "mainStation": "",
+            "event": null
+          },
+          {
+            "index": 16,
+            "rank": 17,
+            "id": "11093",
+            "name": "12",
+            "aliasName": "",
+            "displayName": "12",
+            "cityCode": "1130",
+            "cityName": "용인",
+            "type": "1",
+            "typeName": "일반",
+            "typeIconName": "일반",
+            "startPoint": "금어2리",
+            "endPoint": "마성리",
+            "turningPointIdx": "31",
+            "firstTime": "06:30",
+            "lastTime": "20:00",
+            "intervalTime": "130",
+            "intervalCount": "",
+            "liveUpdate": true,
+            "useInterval": true,
+            "mainStation": "",
+            "event": null
+          },
+          {
+            "index": 17,
+            "rank": 18,
+            "id": "11109",
+            "name": "70",
+            "aliasName": "",
+            "displayName": "70",
+            "cityCode": "1130",
+            "cityName": "용인",
+            "type": "1",
+            "typeName": "일반",
+            "typeIconName": "일반",
+            "startPoint": "(임시)용인터미널",
+            "endPoint": "금어2리",
+            "turningPointIdx": "25",
+            "firstTime": "06:00",
+            "lastTime": "21:50",
+            "intervalTime": "110",
+            "intervalCount": "",
+            "liveUpdate": true,
+            "useInterval": true,
+            "mainStation": "",
+            "event": null
+          },
+          {
+            "index": 18,
+            "rank": 19,
+            "id": "1697",
+            "name": "종로09",
+            "aliasName": "",
+            "displayName": "종로09",
+            "cityCode": "1000",
+            "cityName": "서울",
+            "type": "3",
+            "typeName": "마을",
+            "typeIconName": "마을",
+            "startPoint": "수성동계곡",
+            "endPoint": "남대문",
+            "turningPointIdx": "8",
+            "firstTime": "06:00",
+            "lastTime": "23:30",
+            "intervalTime": "10",
+            "intervalCount": "",
+            "liveUpdate": true,
+            "useInterval": true,
+            "mainStation": "",
+            "event": null
+          },
+          {
+            "index": 19,
+            "rank": 20,
+            "id": "12026",
+            "name": "34",
+            "aliasName": "",
+            "displayName": "34",
+            "cityCode": "1090",
+            "cityName": "의정부",
+            "type": "1",
+            "typeName": "일반",
+            "typeIconName": "일반",
+            "startPoint": "양지마을",
+            "endPoint": "불광역4번출구",
+            "turningPointIdx": "57",
+            "firstTime": "05:00",
+            "lastTime": "22:20",
+            "intervalTime": "150",
+            "intervalCount": "",
+            "liveUpdate": true,
+            "useInterval": true,
+            "mainStation": "",
+            "event": null
+          }
+        ]
+      },
+      "busStation": {
+        "page": 1,
+        "totalCount": 39,
+        "filters": {
+          "doCodeList": [
+            {
+              "doCode": "9",
+              "doName": "전라북도",
+              "doNameAlias": "전북"
+            }
+          ]
+        },
+        "boundary": null,
+        "list": [
+          {
+            "index": 0,
+            "rank": 1,
+            "id": "904081",
+            "name": "계곡",
+            "stationClass": "1",
+            "x": "126.6553616",
+            "y": "35.7261521",
+            "address": "전북특별자치도 부안군 하서면",
+            "streetPanorama": {
+              "id": "A5EvLkgVKiFwAUuS07diQA==",
+              "pan": "-81.24",
+              "tilt": "0",
+              "lng": "126.6553616",
+              "lat": "35.7261521",
+              "fov": "120"
+            },
+            "itemLevel": "12",
+            "arsId": "3190462",
+            "doCode": "9",
+            "doName": "전북특별자치도",
+            "liveUpdate": true,
+            "routeList": [
+              {
+                "id": "2270112",
+                "name": "640",
+                "aliasName": "석불산.청호",
+                "displayName": "640(석불산.청호)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904083",
+                  "name": "청호",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904083",
+                        "localId": "3190447",
+                        "localDisplayId": "3190447",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270113",
+                "name": "640",
+                "aliasName": "청호",
+                "displayName": "640(청호)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904083",
+                  "name": "청호",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904083",
+                        "localId": "3190447",
+                        "localDisplayId": "3190447",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              }
+            ],
+            "distance": "95266.26",
+            "direction": "청호",
+            "aux": {
+              "centerStop": false
+            }
+          },
+          {
+            "index": 1,
+            "rank": 2,
+            "id": "904080",
+            "name": "계곡",
+            "stationClass": "1",
+            "x": "126.6554937",
+            "y": "35.7261729",
+            "address": "전북특별자치도 부안군 하서면",
+            "streetPanorama": {
+              "id": "A5EvLkgVKiFwAUuS07diQA==",
+              "pan": "80.96",
+              "tilt": "-20.92",
+              "lng": "126.6554937",
+              "lat": "35.7261729",
+              "fov": "80"
+            },
+            "itemLevel": "12",
+            "arsId": "3190461",
+            "doCode": "9",
+            "doName": "전북특별자치도",
+            "liveUpdate": true,
+            "routeList": [
+              {
+                "id": "20019491",
+                "name": "100",
+                "aliasName": "부안-격포-마포-변산-비득지-하서-부안",
+                "displayName": "100(부안-격포-마포-변산-비득지-하서-부안)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904047",
+                  "name": "청호",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904047",
+                        "localId": "3190485",
+                        "localDisplayId": "3190485",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "20019490",
+                "name": "101",
+                "aliasName": "부안-격포-격포-마포-변산-하서-부안",
+                "displayName": "101(부안-격포-격포-마포-변산-하서-부안)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904047",
+                  "name": "청호",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904047",
+                        "localId": "3190485",
+                        "localDisplayId": "3190485",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270236",
+                "name": "640",
+                "aliasName": "청호",
+                "displayName": "640(청호)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904078",
+                  "name": "삼현",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904078",
+                        "localId": "3190491",
+                        "localDisplayId": "3190491",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270238",
+                "name": "640",
+                "aliasName": "청호.석불산",
+                "displayName": "640(청호.석불산)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "913273",
+                  "name": "석불산영상랜드",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "913273",
+                        "localId": "3190848",
+                        "localDisplayId": "3190848",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              }
+            ],
+            "distance": "95275.07",
+            "direction": "청호",
+            "aux": {
+              "centerStop": false
+            }
+          },
+          {
+            "index": 2,
+            "rank": 3,
+            "id": "904082",
+            "name": "청호",
+            "stationClass": "1",
+            "x": "126.6568034",
+            "y": "35.7239362",
+            "address": "전북특별자치도 부안군 하서면",
+            "streetPanorama": {
+              "id": "DNyXLtjpC3B5DKlfp9houA==",
+              "pan": "13.59",
+              "tilt": "0",
+              "lng": "126.6568034",
+              "lat": "35.7239362",
+              "fov": "120"
+            },
+            "itemLevel": "12",
+            "arsId": "3190449",
+            "doCode": "9",
+            "doName": "전북특별자치도",
+            "liveUpdate": true,
+            "routeList": [
+              {
+                "id": "20019491",
+                "name": "100",
+                "aliasName": "부안-격포-마포-변산-비득지-하서-부안",
+                "displayName": "100(부안-격포-마포-변산-비득지-하서-부안)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904080",
+                  "name": "계곡",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904080",
+                        "localId": "3190461",
+                        "localDisplayId": "3190461",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "20019490",
+                "name": "101",
+                "aliasName": "부안-격포-격포-마포-변산-하서-부안",
+                "displayName": "101(부안-격포-격포-마포-변산-하서-부안)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904080",
+                  "name": "계곡",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904080",
+                        "localId": "3190461",
+                        "localDisplayId": "3190461",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270236",
+                "name": "640",
+                "aliasName": "청호",
+                "displayName": "640(청호)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904080",
+                  "name": "계곡",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904080",
+                        "localId": "3190461",
+                        "localDisplayId": "3190461",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270238",
+                "name": "640",
+                "aliasName": "청호.석불산",
+                "displayName": "640(청호.석불산)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904080",
+                  "name": "계곡",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904080",
+                        "localId": "3190461",
+                        "localDisplayId": "3190461",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              }
+            ],
+            "distance": "95508.94",
+            "direction": "계곡",
+            "aux": {
+              "centerStop": false
+            }
+          },
+          {
+            "index": 3,
+            "rank": 4,
+            "id": "904083",
+            "name": "청호",
+            "stationClass": "1",
+            "x": "126.6568313",
+            "y": "35.7237929",
+            "address": "전북특별자치도 부안군 하서면",
+            "streetPanorama": {
+              "id": "DNyXLtjpC3B5DKlfp9houA==",
+              "pan": "-83.34",
+              "tilt": "2.41",
+              "lng": "126.6568313",
+              "lat": "35.7237929",
+              "fov": "80"
+            },
+            "itemLevel": "12",
+            "arsId": "3190447",
+            "doCode": "9",
+            "doName": "전북특별자치도",
+            "liveUpdate": true,
+            "routeList": [
+              {
+                "id": "2270112",
+                "name": "640",
+                "aliasName": "석불산.청호",
+                "displayName": "640(석불산.청호)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904084",
+                  "name": "원중",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904084",
+                        "localId": "3190457",
+                        "localDisplayId": "3190457",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270113",
+                "name": "640",
+                "aliasName": "청호",
+                "displayName": "640(청호)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904084",
+                  "name": "원중",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904084",
+                        "localId": "3190457",
+                        "localDisplayId": "3190457",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              }
+            ],
+            "distance": "95519.67",
+            "direction": "원중",
+            "aux": {
+              "centerStop": false
+            }
+          },
+          {
+            "index": 4,
+            "rank": 5,
+            "id": "904079",
+            "name": "삼현",
+            "stationClass": "1",
+            "x": "126.6546496",
+            "y": "35.7292514",
+            "address": "전북특별자치도 부안군 하서면",
+            "streetPanorama": {
+              "id": "7WB0P/A8bLvsXKsjLA9FOQ==",
+              "pan": "-112.39",
+              "tilt": "0",
+              "lng": "126.6546496",
+              "lat": "35.7292514",
+              "fov": "120"
+            },
+            "itemLevel": "12",
+            "arsId": "3190487",
+            "doCode": "9",
+            "doName": "전북특별자치도",
+            "liveUpdate": true,
+            "routeList": [
+              {
+                "id": "2270112",
+                "name": "640",
+                "aliasName": "석불산.청호",
+                "displayName": "640(석불산.청호)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "913273",
+                  "name": "석불산영상랜드",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "913273",
+                        "localId": "3190848",
+                        "localDisplayId": "3190848",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270113",
+                "name": "640",
+                "aliasName": "청호",
+                "displayName": "640(청호)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904081",
+                  "name": "계곡",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904081",
+                        "localId": "3190462",
+                        "localDisplayId": "3190462",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              }
+            ],
+            "distance": "95026.63",
+            "direction": "석불산영상랜드",
+            "aux": {
+              "centerStop": false
+            }
+          },
+          {
+            "index": 5,
+            "rank": 6,
+            "id": "904078",
+            "name": "삼현",
+            "stationClass": "1",
+            "x": "126.6547355",
+            "y": "35.7294113",
+            "address": "전북특별자치도 부안군 하서면",
+            "streetPanorama": {
+              "id": "vMyglRaiQ/TknniUFJYyVA==",
+              "pan": "71.05",
+              "tilt": "-19.69",
+              "lng": "126.6547355",
+              "lat": "35.7294113",
+              "fov": "80"
+            },
+            "itemLevel": "12",
+            "arsId": "3190491",
+            "doCode": "9",
+            "doName": "전북특별자치도",
+            "liveUpdate": true,
+            "routeList": [
+              {
+                "id": "2270236",
+                "name": "640",
+                "aliasName": "청호",
+                "displayName": "640(청호)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904076",
+                  "name": "농원",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904076",
+                        "localId": "3190501",
+                        "localDisplayId": "3190501",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270238",
+                "name": "640",
+                "aliasName": "청호.석불산",
+                "displayName": "640(청호.석불산)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904076",
+                  "name": "농원",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904076",
+                        "localId": "3190501",
+                        "localDisplayId": "3190501",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              }
+            ],
+            "distance": "95023.64",
+            "direction": "농원",
+            "aux": {
+              "centerStop": false
+            }
+          },
+          {
+            "index": 6,
+            "rank": 7,
+            "id": "904047",
+            "name": "청호",
+            "stationClass": "1",
+            "x": "126.6608945",
+            "y": "35.7289720",
+            "address": "전북특별자치도 부안군 하서면",
+            "streetPanorama": {
+              "id": "3UP1TdW9+MJsgewdemt6Jg==",
+              "pan": "-178.21",
+              "tilt": "-7.97",
+              "lng": "126.6608945",
+              "lat": "35.728972",
+              "fov": "80"
+            },
+            "itemLevel": "12",
+            "arsId": "3190485",
+            "doCode": "9",
+            "doName": "전북특별자치도",
+            "liveUpdate": true,
+            "routeList": [
+              {
+                "id": "2270166",
+                "name": "100",
+                "aliasName": "비득지.하서",
+                "displayName": "100(비득지.하서)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904042",
+                  "name": "삼간",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904042",
+                        "localId": "3190498",
+                        "localDisplayId": "3190498",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "20019491",
+                "name": "100",
+                "aliasName": "부안-격포-마포-변산-비득지-하서-부안",
+                "displayName": "100(부안-격포-마포-변산-비득지-하서-부안)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "55038417",
+                  "name": "삼간마을",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "55038417",
+                        "localId": "3190481",
+                        "localDisplayId": "3190481",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "20019490",
+                "name": "101",
+                "aliasName": "부안-격포-격포-마포-변산-하서-부안",
+                "displayName": "101(부안-격포-격포-마포-변산-하서-부안)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "55038417",
+                  "name": "삼간마을",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "55038417",
+                        "localId": "3190481",
+                        "localDisplayId": "3190481",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              }
+            ],
+            "distance": "95519.89",
+            "direction": "삼간마을",
+            "aux": {
+              "centerStop": false
+            }
+          },
+          {
+            "index": 7,
+            "rank": 8,
+            "id": "904046",
+            "name": "청호",
+            "stationClass": "1",
+            "x": "126.6608159",
+            "y": "35.7292538",
+            "address": "전북특별자치도 부안군 하서면",
+            "streetPanorama": {
+              "id": "3UP1TdW9+MJsgewdemt6Jg==",
+              "pan": "-31.89",
+              "tilt": "0",
+              "lng": "126.6608159",
+              "lat": "35.7292538",
+              "fov": "120"
+            },
+            "itemLevel": "12",
+            "arsId": "3190486",
+            "doCode": "9",
+            "doName": "전북특별자치도",
+            "liveUpdate": true,
+            "routeList": [
+              {
+                "id": "2270167",
+                "name": "100",
+                "aliasName": "격포",
+                "displayName": "100(격포)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904120",
+                  "name": "백련",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904120",
+                        "localId": "3190399",
+                        "localDisplayId": "3190399",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "20019491",
+                "name": "100",
+                "aliasName": "부안-격포-마포-변산-비득지-하서-부안",
+                "displayName": "100(부안-격포-마포-변산-비득지-하서-부안)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904120",
+                  "name": "백련",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904120",
+                        "localId": "3190399",
+                        "localDisplayId": "3190399",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "20019490",
+                "name": "101",
+                "aliasName": "부안-격포-격포-마포-변산-하서-부안",
+                "displayName": "101(부안-격포-격포-마포-변산-하서-부안)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904120",
+                  "name": "백련",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904120",
+                        "localId": "3190399",
+                        "localDisplayId": "3190399",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              }
+            ],
+            "distance": "95497.15",
+            "direction": "백련",
+            "aux": {
+              "centerStop": false
+            }
+          },
+          {
+            "index": 8,
+            "rank": 9,
+            "id": "904085",
+            "name": "원중",
+            "stationClass": "1",
+            "x": "126.6628785",
+            "y": "35.7252578",
+            "address": "전북특별자치도 부안군 하서면",
+            "streetPanorama": {
+              "id": "LJdJrAOjmgZlykrzkAzAyA==",
+              "pan": "-49.73",
+              "tilt": "0",
+              "lng": "126.6628785",
+              "lat": "35.7252578",
+              "fov": "120"
+            },
+            "itemLevel": "12",
+            "arsId": "3190458",
+            "doCode": "9",
+            "doName": "전북특별자치도",
+            "liveUpdate": true,
+            "routeList": [
+              {
+                "id": "2270236",
+                "name": "640",
+                "aliasName": "청호",
+                "displayName": "640(청호)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904082",
+                  "name": "청호",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904082",
+                        "localId": "3190449",
+                        "localDisplayId": "3190449",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270238",
+                "name": "640",
+                "aliasName": "청호.석불산",
+                "displayName": "640(청호.석불산)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904082",
+                  "name": "청호",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904082",
+                        "localId": "3190449",
+                        "localDisplayId": "3190449",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              }
+            ],
+            "distance": "95892.49",
+            "direction": "청호",
+            "aux": {
+              "centerStop": false
+            }
+          },
+          {
+            "index": 9,
+            "rank": 10,
+            "id": "904084",
+            "name": "원중",
+            "stationClass": "1",
+            "x": "126.6629429",
+            "y": "35.7252001",
+            "address": "전북특별자치도 부안군 하서면",
+            "streetPanorama": {
+              "id": "LJdJrAOjmgZlykrzkAzAyA==",
+              "pan": "165.78",
+              "tilt": "0",
+              "lng": "126.6629429",
+              "lat": "35.7252001",
+              "fov": "120"
+            },
+            "itemLevel": "12",
+            "arsId": "3190457",
+            "doCode": "9",
+            "doName": "전북특별자치도",
+            "liveUpdate": true,
+            "routeList": [
+              {
+                "id": "2270112",
+                "name": "640",
+                "aliasName": "석불산.청호",
+                "displayName": "640(석불산.청호)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904087",
+                  "name": "언독",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904087",
+                        "localId": "3190454",
+                        "localDisplayId": "3190454",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270113",
+                "name": "640",
+                "aliasName": "청호",
+                "displayName": "640(청호)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904087",
+                  "name": "언독",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904087",
+                        "localId": "3190454",
+                        "localDisplayId": "3190454",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              }
+            ],
+            "distance": "95900.84",
+            "direction": "언독",
+            "aux": {
+              "centerStop": false
+            }
+          },
+          {
+            "index": 10,
+            "rank": 11,
+            "id": "904077",
+            "name": "농원",
+            "stationClass": "1",
+            "x": "126.6531525",
+            "y": "35.7321779",
+            "address": "전북특별자치도 부안군 하서면",
+            "streetPanorama": {
+              "id": "Slihnd5bBufWdK7APPEaAw==",
+              "pan": "-147.61",
+              "tilt": "0",
+              "lng": "126.6531525",
+              "lat": "35.7321779",
+              "fov": "120"
+            },
+            "itemLevel": "12",
+            "arsId": "3190500",
+            "doCode": "9",
+            "doName": "전북특별자치도",
+            "liveUpdate": true,
+            "routeList": [
+              {
+                "id": "2270112",
+                "name": "640",
+                "aliasName": "석불산.청호",
+                "displayName": "640(석불산.청호)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904079",
+                  "name": "삼현",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904079",
+                        "localId": "3190487",
+                        "localDisplayId": "3190487",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270113",
+                "name": "640",
+                "aliasName": "청호",
+                "displayName": "640(청호)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904079",
+                  "name": "삼현",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904079",
+                        "localId": "3190487",
+                        "localDisplayId": "3190487",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              }
+            ],
+            "distance": "94738.02",
+            "direction": "삼현",
+            "aux": {
+              "centerStop": false
+            }
+          },
+          {
+            "index": 11,
+            "rank": 12,
+            "id": "904076",
+            "name": "농원",
+            "stationClass": "1",
+            "x": "126.6532280",
+            "y": "35.7322028",
+            "address": "전북특별자치도 부안군 하서면",
+            "streetPanorama": {
+              "id": "Slihnd5bBufWdK7APPEaAw==",
+              "pan": "124.88",
+              "tilt": "0",
+              "lng": "126.653228",
+              "lat": "35.7322028",
+              "fov": "120"
+            },
+            "itemLevel": "12",
+            "arsId": "3190501",
+            "doCode": "9",
+            "doName": "전북특별자치도",
+            "liveUpdate": true,
+            "routeList": [
+              {
+                "id": "2270236",
+                "name": "640",
+                "aliasName": "청호",
+                "displayName": "640(청호)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "913272",
+                  "name": "청호리",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "913272",
+                        "localId": "0",
+                        "localDisplayId": "",
+                        "localCityCode": "99999"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270238",
+                "name": "640",
+                "aliasName": "청호.석불산",
+                "displayName": "640(청호.석불산)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "913272",
+                  "name": "청호리",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "913272",
+                        "localId": "0",
+                        "localDisplayId": "",
+                        "localCityCode": "99999"
+                      }
+                    ]
+                  }
+                }
+              }
+            ],
+            "distance": "94742.31",
+            "direction": "청호리",
+            "aux": {
+              "centerStop": false
+            }
+          },
+          {
+            "index": 12,
+            "rank": 13,
+            "id": "913272",
+            "name": "청호리",
+            "stationClass": "1",
+            "x": "126.6536170",
+            "y": "35.7345130",
+            "address": "전북특별자치도 부안군 하서면",
+            "streetPanorama": {
+              "id": "vNgRZ22dq1v24yLkuMAOHg",
+              "pan": "150.77",
+              "tilt": "0",
+              "lng": "126.6535941",
+              "lat": "35.7345538",
+              "fov": "120"
+            },
+            "itemLevel": "12",
+            "arsId": "",
+            "doCode": "9",
+            "doName": "전북특별자치도",
+            "liveUpdate": true,
+            "routeList": [
+              {
+                "id": "2270236",
+                "name": "640",
+                "aliasName": "청호",
+                "displayName": "640(청호)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "913269",
+                  "name": "청호리",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "913269",
+                        "localId": "0",
+                        "localDisplayId": "",
+                        "localCityCode": "99999"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270238",
+                "name": "640",
+                "aliasName": "청호.석불산",
+                "displayName": "640(청호.석불산)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "913269",
+                  "name": "청호리",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "913269",
+                        "localId": "0",
+                        "localDisplayId": "",
+                        "localCityCode": "99999"
+                      }
+                    ]
+                  }
+                }
+              }
+            ],
+            "distance": "94634.90",
+            "direction": "청호리",
+            "aux": {
+              "centerStop": false
+            }
+          },
+          {
+            "index": 13,
+            "rank": 14,
+            "id": "913271",
+            "name": "청호리",
+            "stationClass": "1",
+            "x": "126.6535280",
+            "y": "35.7345210",
+            "address": "전북특별자치도 부안군 하서면",
+            "streetPanorama": {
+              "id": "vNgRZ22dq1v24yLkuMAOHg",
+              "pan": "-116.45",
+              "tilt": "0",
+              "lng": "126.6535941",
+              "lat": "35.7345538",
+              "fov": "120"
+            },
+            "itemLevel": "12",
+            "arsId": "",
+            "doCode": "9",
+            "doName": "전북특별자치도",
+            "liveUpdate": true,
+            "routeList": [
+              {
+                "id": "2270112",
+                "name": "640",
+                "aliasName": "석불산.청호",
+                "displayName": "640(석불산.청호)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904077",
+                  "name": "농원",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904077",
+                        "localId": "3190500",
+                        "localDisplayId": "3190500",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270113",
+                "name": "640",
+                "aliasName": "청호",
+                "displayName": "640(청호)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904077",
+                  "name": "농원",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904077",
+                        "localId": "3190500",
+                        "localDisplayId": "3190500",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              }
+            ],
+            "distance": "94627.62",
+            "direction": "농원",
+            "aux": {
+              "centerStop": false
+            }
+          },
+          {
+            "index": 14,
+            "rank": 15,
+            "id": "913273",
+            "name": "석불산영상랜드",
+            "stationClass": "1",
+            "x": "126.6416979",
+            "y": "35.7262054",
+            "address": "전북특별자치도 부안군 하서면",
+            "streetPanorama": {
+              "id": "6kMOxr1htpNcn9coJDsDpw==",
+              "pan": "179.32",
+              "tilt": "0",
+              "lng": "126.6416979",
+              "lat": "35.7262054",
+              "fov": "120"
+            },
+            "itemLevel": "12",
+            "arsId": "3190848",
+            "doCode": "9",
+            "doName": "전북특별자치도",
+            "liveUpdate": true,
+            "routeList": [
+              {
+                "id": "2270112",
+                "name": "640",
+                "aliasName": "석불산.청호",
+                "displayName": "640(석불산.청호)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904081",
+                  "name": "계곡",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904081",
+                        "localId": "3190462",
+                        "localDisplayId": "3190462",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270238",
+                "name": "640",
+                "aliasName": "청호.석불산",
+                "displayName": "640(청호.석불산)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904078",
+                  "name": "삼현",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904078",
+                        "localId": "3190491",
+                        "localDisplayId": "3190491",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              }
+            ],
+            "distance": "94225.19",
+            "direction": "계곡",
+            "aux": {
+              "centerStop": false
+            }
+          },
+          {
+            "index": 15,
+            "rank": 16,
+            "id": "904087",
+            "name": "언독",
+            "stationClass": "1",
+            "x": "126.6694193",
+            "y": "35.7249549",
+            "address": "전북특별자치도 부안군 하서면",
+            "streetPanorama": {
+              "id": "zkVXdB5Bjv1N4zN0EzOc8Q==",
+              "pan": "-175.57",
+              "tilt": "-5.16",
+              "lng": "126.6694193",
+              "lat": "35.7249549",
+              "fov": "80"
+            },
+            "itemLevel": "12",
+            "arsId": "3190454",
+            "doCode": "9",
+            "doName": "전북특별자치도",
+            "liveUpdate": true,
+            "routeList": [
+              {
+                "id": "2270112",
+                "name": "640",
+                "aliasName": "석불산.청호",
+                "displayName": "640(석불산.청호)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904089",
+                  "name": "대포",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904089",
+                        "localId": "3190441",
+                        "localDisplayId": "3190441",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270113",
+                "name": "640",
+                "aliasName": "청호",
+                "displayName": "640(청호)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904089",
+                  "name": "대포",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904089",
+                        "localId": "3190441",
+                        "localDisplayId": "3190441",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              }
+            ],
+            "distance": "96409.82",
+            "direction": "대포",
+            "aux": {
+              "centerStop": false
+            }
+          },
+          {
+            "index": 16,
+            "rank": 17,
+            "id": "904086",
+            "name": "언독",
+            "stationClass": "1",
+            "x": "126.6694220",
+            "y": "35.7250229",
+            "address": "전북특별자치도 부안군 하서면",
+            "streetPanorama": {
+              "id": "zkVXdB5Bjv1N4zN0EzOc8Q==",
+              "pan": "-0.19",
+              "tilt": "0",
+              "lng": "126.669422",
+              "lat": "35.7250229",
+              "fov": "120"
+            },
+            "itemLevel": "12",
+            "arsId": "3190456",
+            "doCode": "9",
+            "doName": "전북특별자치도",
+            "liveUpdate": true,
+            "routeList": [
+              {
+                "id": "2270236",
+                "name": "640",
+                "aliasName": "청호",
+                "displayName": "640(청호)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904085",
+                  "name": "원중",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904085",
+                        "localId": "3190458",
+                        "localDisplayId": "3190458",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270238",
+                "name": "640",
+                "aliasName": "청호.석불산",
+                "displayName": "640(청호.석불산)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904085",
+                  "name": "원중",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904085",
+                        "localId": "3190458",
+                        "localDisplayId": "3190458",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              }
+            ],
+            "distance": "96405.98",
+            "direction": "원중",
+            "aux": {
+              "centerStop": false
+            }
+          },
+          {
+            "index": 17,
+            "rank": 18,
+            "id": "904094",
+            "name": "하서면사무소",
+            "stationClass": "1",
+            "x": "126.6626812",
+            "y": "35.7152142",
+            "address": "전북특별자치도 부안군 하서면",
+            "streetPanorama": {
+              "id": "PZDUS9kCvFE72Oxmez4xrw==",
+              "pan": "4.02",
+              "tilt": "0",
+              "lng": "126.6626812",
+              "lat": "35.7152142",
+              "fov": "120"
+            },
+            "itemLevel": "12",
+            "arsId": "3190401",
+            "doCode": "9",
+            "doName": "전북특별자치도",
+            "liveUpdate": true,
+            "routeList": [
+              {
+                "id": "20019527",
+                "name": "66",
+                "aliasName": "부안-섶못-사자동-전시관-신시도-전시관",
+                "displayName": "66(부안-섶못-사자동-전시관-신시도-전시관)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904191",
+                  "name": "도화",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904191",
+                        "localId": "3190339",
+                        "localDisplayId": "3190339",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270012",
+                "name": "200",
+                "aliasName": "격포",
+                "displayName": "200(격포)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904096",
+                  "name": "보건지소",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904096",
+                        "localId": "3190396",
+                        "localDisplayId": "3190396",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270171",
+                "name": "200",
+                "aliasName": "부안댐",
+                "displayName": "200(부안댐)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904096",
+                  "name": "보건지소",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904096",
+                        "localId": "3190396",
+                        "localDisplayId": "3190396",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270172",
+                "name": "200",
+                "aliasName": "소격",
+                "displayName": "200(소격)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904096",
+                  "name": "보건지소",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904096",
+                        "localId": "3190396",
+                        "localDisplayId": "3190396",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270173",
+                "name": "200",
+                "aliasName": "온천",
+                "displayName": "200(온천)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904096",
+                  "name": "보건지소",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904096",
+                        "localId": "3190396",
+                        "localDisplayId": "3190396",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270185",
+                "name": "212",
+                "aliasName": "소격",
+                "displayName": "212(소격)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904096",
+                  "name": "보건지소",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904096",
+                        "localId": "3190396",
+                        "localDisplayId": "3190396",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270100",
+                "name": "620",
+                "aliasName": "섶못",
+                "displayName": "620(섶못)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904096",
+                  "name": "보건지소",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904096",
+                        "localId": "3190396",
+                        "localDisplayId": "3190396",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270101",
+                "name": "620",
+                "aliasName": "섶못.수조",
+                "displayName": "620(섶못.수조)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904096",
+                  "name": "보건지소",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904096",
+                        "localId": "3190396",
+                        "localDisplayId": "3190396",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270102",
+                "name": "620",
+                "aliasName": "섶못.수조.불등",
+                "displayName": "620(섶못.수조.불등)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904096",
+                  "name": "보건지소",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904096",
+                        "localId": "3190396",
+                        "localDisplayId": "3190396",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270216",
+                "name": "620",
+                "aliasName": "섶못.수조.월포",
+                "displayName": "620(섶못.수조.월포)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904096",
+                  "name": "보건지소",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904096",
+                        "localId": "3190396",
+                        "localDisplayId": "3190396",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270245",
+                "name": "650",
+                "aliasName": "초막집",
+                "displayName": "650(초막집)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904096",
+                  "name": "보건지소",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904096",
+                        "localId": "3190396",
+                        "localDisplayId": "3190396",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              }
+            ],
+            "distance": "96481.46",
+            "direction": "보건지소",
+            "aux": {
+              "centerStop": false
+            }
+          },
+          {
+            "index": 18,
+            "rank": 19,
+            "id": "904095",
+            "name": "하서면사무소",
+            "stationClass": "1",
+            "x": "126.6627357",
+            "y": "35.7151191",
+            "address": "전북특별자치도 부안군 하서면",
+            "streetPanorama": {
+              "id": "pTKpPXRPauOlQwTGNGuR0g==",
+              "pan": "162.21",
+              "tilt": "-6.54",
+              "lng": "126.6627357",
+              "lat": "35.7151191",
+              "fov": "80"
+            },
+            "itemLevel": "12",
+            "arsId": "3190400",
+            "doCode": "9",
+            "doName": "전북특별자치도",
+            "liveUpdate": true,
+            "routeList": [
+              {
+                "id": "20019525",
+                "name": "66",
+                "aliasName": "내소사-격포-전시관-신시도-부안",
+                "displayName": "66(내소사-격포-전시관-신시도-부안)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904093",
+                  "name": "신평",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904093",
+                        "localId": "3190413",
+                        "localDisplayId": "3190413",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "20019528",
+                "name": "66",
+                "aliasName": "내소사-격포-전시관-부안",
+                "displayName": "66(내소사-격포-전시관-부안)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904093",
+                  "name": "신평",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904093",
+                        "localId": "3190413",
+                        "localDisplayId": "3190413",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "20019491",
+                "name": "100",
+                "aliasName": "부안-격포-마포-변산-비득지-하서-부안",
+                "displayName": "100(부안-격포-마포-변산-비득지-하서-부안)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904082",
+                  "name": "청호",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904082",
+                        "localId": "3190449",
+                        "localDisplayId": "3190449",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "20019490",
+                "name": "101",
+                "aliasName": "부안-격포-격포-마포-변산-하서-부안",
+                "displayName": "101(부안-격포-격포-마포-변산-하서-부안)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904082",
+                  "name": "청호",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904082",
+                        "localId": "3190449",
+                        "localDisplayId": "3190449",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270013",
+                "name": "201",
+                "aliasName": "등룡",
+                "displayName": "201(등룡)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904093",
+                  "name": "신평",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904093",
+                        "localId": "3190413",
+                        "localDisplayId": "3190413",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270014",
+                "name": "201",
+                "aliasName": "변산.등룡",
+                "displayName": "201(변산.등룡)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904093",
+                  "name": "신평",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904093",
+                        "localId": "3190413",
+                        "localDisplayId": "3190413",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270015",
+                "name": "201",
+                "aliasName": "변산.부안댐.등룡",
+                "displayName": "201(변산.부안댐.등룡)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904093",
+                  "name": "신평",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904093",
+                        "localId": "3190413",
+                        "localDisplayId": "3190413",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270176",
+                "name": "201",
+                "aliasName": "변산.온천.등룡",
+                "displayName": "201(변산.온천.등룡)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904093",
+                  "name": "신평",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904093",
+                        "localId": "3190413",
+                        "localDisplayId": "3190413",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270177",
+                "name": "201",
+                "aliasName": "소격.변산.등룡",
+                "displayName": "201(소격.변산.등룡)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904093",
+                  "name": "신평",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904093",
+                        "localId": "3190413",
+                        "localDisplayId": "3190413",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270178",
+                "name": "201",
+                "aliasName": "유유동.변산.등룡",
+                "displayName": "201(유유동.변산.등룡)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904093",
+                  "name": "신평",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904093",
+                        "localId": "3190413",
+                        "localDisplayId": "3190413",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270184",
+                "name": "211",
+                "aliasName": "소격.변산.등룡",
+                "displayName": "211(소격.변산.등룡)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904093",
+                  "name": "신평",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904093",
+                        "localId": "3190413",
+                        "localDisplayId": "3190413",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270022",
+                "name": "212",
+                "aliasName": "소격.변산.등룡",
+                "displayName": "212(소격.변산.등룡)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904093",
+                  "name": "신평",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904093",
+                        "localId": "3190413",
+                        "localDisplayId": "3190413",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270097",
+                "name": "620",
+                "aliasName": "등룡",
+                "displayName": "620(등룡)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904093",
+                  "name": "신평",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904093",
+                        "localId": "3190413",
+                        "localDisplayId": "3190413",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270098",
+                "name": "620",
+                "aliasName": "수조.월포.등룡",
+                "displayName": "620(수조.월포.등룡)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904093",
+                  "name": "신평",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904093",
+                        "localId": "3190413",
+                        "localDisplayId": "3190413",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270106",
+                "name": "630",
+                "aliasName": "수조.등룡",
+                "displayName": "630(수조.등룡)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904093",
+                  "name": "신평",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904093",
+                        "localId": "3190413",
+                        "localDisplayId": "3190413",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270233",
+                "name": "630",
+                "aliasName": "초막집.등룡",
+                "displayName": "630(초막집.등룡)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904093",
+                  "name": "신평",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904093",
+                        "localId": "3190413",
+                        "localDisplayId": "3190413",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270235",
+                "name": "640",
+                "aliasName": "초막집.불등.수조.등룡",
+                "displayName": "640(초막집.불등.수조.등룡)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904093",
+                  "name": "신평",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904093",
+                        "localId": "3190413",
+                        "localDisplayId": "3190413",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270241",
+                "name": "640",
+                "aliasName": "등룡",
+                "displayName": "640(등룡)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904093",
+                  "name": "신평",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904093",
+                        "localId": "3190413",
+                        "localDisplayId": "3190413",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270242",
+                "name": "650",
+                "aliasName": "등룡",
+                "displayName": "650(등룡)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904093",
+                  "name": "신평",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904093",
+                        "localId": "3190413",
+                        "localDisplayId": "3190413",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              }
+            ],
+            "distance": "96491.35",
+            "direction": "신평",
+            "aux": {
+              "centerStop": false
+            }
+          },
+          {
+            "index": 19,
+            "rank": 20,
+            "id": "904096",
+            "name": "보건지소",
+            "stationClass": "1",
+            "x": "126.6601793",
+            "y": "35.7141392",
+            "address": "전북특별자치도 부안군 하서면",
+            "streetPanorama": {
+              "id": "i1/8wwmBzfkV/T9WYz8QcQ==",
+              "pan": "-63.47",
+              "tilt": "0",
+              "lng": "126.6601793",
+              "lat": "35.7141392",
+              "fov": "120"
+            },
+            "itemLevel": "12",
+            "arsId": "3190396",
+            "doCode": "9",
+            "doName": "전북특별자치도",
+            "liveUpdate": true,
+            "routeList": [
+              {
+                "id": "2270012",
+                "name": "200",
+                "aliasName": "격포",
+                "displayName": "200(격포)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904098",
+                  "name": "청일",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904098",
+                        "localId": "3190387",
+                        "localDisplayId": "3190387",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270171",
+                "name": "200",
+                "aliasName": "부안댐",
+                "displayName": "200(부안댐)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904098",
+                  "name": "청일",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904098",
+                        "localId": "3190387",
+                        "localDisplayId": "3190387",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270172",
+                "name": "200",
+                "aliasName": "소격",
+                "displayName": "200(소격)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904098",
+                  "name": "청일",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904098",
+                        "localId": "3190387",
+                        "localDisplayId": "3190387",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270173",
+                "name": "200",
+                "aliasName": "온천",
+                "displayName": "200(온천)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904098",
+                  "name": "청일",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904098",
+                        "localId": "3190387",
+                        "localDisplayId": "3190387",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270185",
+                "name": "212",
+                "aliasName": "소격",
+                "displayName": "212(소격)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904098",
+                  "name": "청일",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904098",
+                        "localId": "3190387",
+                        "localDisplayId": "3190387",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270100",
+                "name": "620",
+                "aliasName": "섶못",
+                "displayName": "620(섶못)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904098",
+                  "name": "청일",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904098",
+                        "localId": "3190387",
+                        "localDisplayId": "3190387",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270101",
+                "name": "620",
+                "aliasName": "섶못.수조",
+                "displayName": "620(섶못.수조)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904098",
+                  "name": "청일",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904098",
+                        "localId": "3190387",
+                        "localDisplayId": "3190387",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270102",
+                "name": "620",
+                "aliasName": "섶못.수조.불등",
+                "displayName": "620(섶못.수조.불등)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904098",
+                  "name": "청일",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904098",
+                        "localId": "3190387",
+                        "localDisplayId": "3190387",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270216",
+                "name": "620",
+                "aliasName": "섶못.수조.월포",
+                "displayName": "620(섶못.수조.월포)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904098",
+                  "name": "청일",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904098",
+                        "localId": "3190387",
+                        "localDisplayId": "3190387",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "id": "2270245",
+                "name": "650",
+                "aliasName": "초막집",
+                "displayName": "650(초막집)",
+                "type": "20",
+                "typeName": "농어촌",
+                "typeIconName": "농어촌",
+                "nextStation": {
+                  "id": "904098",
+                  "name": "청일",
+                  "matchStations": {
+                    "matchStation": [
+                      {
+                        "id": "904098",
+                        "localId": "3190387",
+                        "localDisplayId": "3190387",
+                        "localCityCode": "9080"
+                      }
+                    ]
+                  }
+                }
+              }
+            ],
+            "distance": "96357.23",
+            "direction": "청일",
+            "aux": {
+              "centerStop": false
+            }
+          }
+        ]
+      }
+    }
+  }
+}
