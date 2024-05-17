@@ -13,6 +13,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.http.*;
 import org.springframework.stereotype.Service;
+import org.springframework.web.client.HttpClientErrorException;
 import org.springframework.web.client.RestTemplate;
 import org.springframework.web.util.UriComponentsBuilder;
 
@@ -42,7 +43,7 @@ public class DataLoadService {
         ObjectMapper mapper = new ObjectMapper();
 
         try {
-            ClassPathResource resource = new ClassPathResource("mountain_test.json");
+            ClassPathResource resource = new ClassPathResource("mountains.json");
             JsonNode root = mapper.readTree(resource.getInputStream()); // JSON 데이터를 JsonNode로 읽음
 
             for (JsonNode node : root) { //돌면서 저장
@@ -66,17 +67,38 @@ public class DataLoadService {
     }
 
     public ResponseDTO generateCoordinate(String address) throws UnsupportedEncodingException { //주소 -> 위,경도 생성
-        ResponseEntity<RootDto> responseEntity = requestCoordinate("6697ce651492e186db0ea6d0c9dc850a", address); //요청 api, 주소
+        int maxRetries = 3; // 최대 재시도 횟수
+        int retryCount = 0; // 현재 재시도 횟수
 
-        if (responseEntity.getStatusCode() == HttpStatus.OK) {
-            System.out.print(responseEntity.getBody());
-            RootDto rootDto = responseEntity.getBody();
-            if(rootDto.isDocumentsEmpty()){ //검색이 되지않는다면..
-                ResponseDTO responseDTO = new ResponseDTO(128.53, 37.51);
-                return responseDTO;
+        while (retryCount < maxRetries) {
+            try {
+                ResponseEntity<RootDto> responseEntity = requestCoordinate("6697ce651492e186db0ea6d0c9dc850a", address); //요청 api, 주소
+
+                if (responseEntity.getStatusCode() == HttpStatus.OK) {
+                    System.out.print(responseEntity.getBody());
+                    RootDto rootDto = responseEntity.getBody();
+                    if (rootDto.isDocumentsEmpty()) { //검색이 되지않는다면..
+                        ResponseDTO responseDTO = new ResponseDTO(128.53, 37.51);
+                        return responseDTO;
+                    }
+                    ResponseDTO responseDTO = new ResponseDTO(rootDto.getDocuments().get(0).getX(), rootDto.getDocuments().get(0).getY()); //추가
+                    return responseDTO;
+                }
+            } catch (HttpClientErrorException.BadRequest e) {
+                retryCount++;
+                if (retryCount < maxRetries) {
+                    System.out.println("Bad Request occurred. Retrying... (Attempt " + retryCount + ")");
+                    try {
+                        Thread.sleep(1000); // 1초 대기 후 재시도
+                    } catch (InterruptedException ex) {
+                        ex.printStackTrace();
+                    }
+                } else {
+                    System.out.println("Max retries reached. Returning default response.");
+                    ResponseDTO responseDTO = new ResponseDTO(128.53, 37.51);
+                    return responseDTO;
+                }
             }
-            ResponseDTO responseDTO = new ResponseDTO(rootDto.getDocuments().get(0).getX(), rootDto.getDocuments().get(0).getY()); //추가
-            return responseDTO;
         }
 
         return null;
